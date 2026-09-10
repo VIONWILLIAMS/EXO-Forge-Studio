@@ -8,18 +8,27 @@ User-directed and developed with **Astra**. This repository contains the interac
 
 ![ATLAS motion workbench](docs/images/atlas-workbench-en.png)
 
+## Let Codex install and open it
+
+Give this to a local Codex task:
+
+> Install and start https://github.com/VIONWILLIAMS/EXO-Forge-Studio locally. Follow its AGENTS.md, prepare the runtime and assets, open the workbench, and verify model loading and motion playback.
+
+[Agent instructions](AGENTS.md) · [Automatic installation, resource sources and troubleshooting](docs/INSTALL.md)
+
 ## Try it locally
 
-Use **Node.js 22.13 or newer** and npm. The runnable models and videos are included; Git LFS, Blender, a backend and API keys are not required to view the app.
+The bootstrap installs Node.js and npm dependencies if needed. The runnable models, skeletons, reference data and videos are included; Git LFS, Blender, a backend and API keys are not required to view the app.
 
 ```sh
-git clone https://github.com/VIONWILLIAMS/EXO-Forge-Studio.git
+git clone --depth 1 https://github.com/VIONWILLIAMS/EXO-Forge-Studio.git
 cd EXO-Forge-Studio
-npm ci
-npm run dev -- --strictPort
+bash start.sh --lang en
 ```
 
-Open [the workbench](http://127.0.0.1:4177/?lang=en) or [the 50-second introduction](http://127.0.0.1:4177/?demo=intro&lang=en). These are local addresses: start the server on your own computer first. Keep that terminal running. If port 4177 is occupied, stop the conflicting service or supply another `--port`.
+On Windows, run `powershell -NoProfile -ExecutionPolicy Bypass -File .\start.ps1 --lang en` after cloning. Reuse the same command next time. The scripts install under the project directory and open the browser automatically. A fresh shallow clone downloads about **144 MB**, with about **342 MB** of uncompressed versioned files; reserve **2 GB** for the local runtime, dependencies and a build.
+
+Default links: [the workbench](http://127.0.0.1:4177/?lang=en) or [the 50-second introduction](http://127.0.0.1:4177/?demo=intro&lang=en). These are local addresses: keep the server terminal running on your own computer. If 4177 is occupied, the bootstrap chooses the next free port and prints its real URL. `--port 4180` instead requires that exact port. See the [install guide](docs/INSTALL.md) for archive installation without Git.
 
 Desktop browsers with WebGL2 are recommended. First model loading can take several seconds. The default Chinese/English toggle is in the header; your browser remembers the choice. A `lang=zh` or `lang=en` URL overrides it without discarding the other URL parameters.
 
@@ -51,6 +60,8 @@ Switching language preserves the current motion, paused position, camera and man
 See the [engineering handoff](cad/v04/README.zh-CN.md), [development notes](docs/DEVELOPMENT.md) and [release verification](docs/VERIFICATION.md). Keep historical reports distinct from tests you run today.
 
 ## Develop and verify
+
+`bash start.sh --check` (Windows: append `--check` to the PowerShell command) installs, verifies resources, tests and builds. With Node/npm already on PATH, the original commands also work:
 
 ```sh
 npm test

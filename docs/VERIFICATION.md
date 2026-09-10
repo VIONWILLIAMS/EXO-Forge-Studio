@@ -28,6 +28,27 @@ The publication review is a bounded file check, not a comprehensive security aud
 - Let motion-mode header controls wrap on narrow screens and removed the machine-specific footer label.
 - Preserved existing model, CAD and video files; no remodelling or rerecording was performed.
 
+## Automatic setup verification · 2026-09-10
+
+The new bootstrap was exercised in a fresh GitHub shallow clone on macOS arm64, in a directory whose name contains a space. The system PATH excluded Node/npm, and no `node_modules` were copied in.
+
+| Check | Result |
+| --- | --- |
+| Fresh Git transfer | PASS — 144,408,325 bytes in the shallow pack; 341,878,003 bytes of original versioned content |
+| No preinstalled Node/npm | PASS — downloaded and verified official Node 22.23.2; installed project-local npm dependencies |
+| Missing resource recovery | PASS — deleted the cloned `environment-m6/apple.glb`; bootstrap restored it from the pinned GitHub revision and verified its bytes |
+| Bundled resources | PASS — 368 checked; a complete clone needs no external asset downloads |
+| Software checks | PASS — existing 78 Vitest tests, 10 new bootstrap tests and the production build |
+| Repeated setup | PASS — reused runtime and dependencies, skipped npm installation |
+| Busy default port | PASS — left the existing 4177 server running and started on 4178 |
+| Explicit busy port | PASS — returned an error while the first service remained available |
+| HTTP and models | PASS — application HTML, assembly JSON and GLB version-2 headers served by the new bootstrap |
+| Preservation/error cases | PASS — local edits retained; bad download, path escape, symlink target and LFS placeholder rejected; in-flight recovery did not overwrite a concurrent edit |
+
+The workflow now runs portable-runtime installation, all tests, build and startup smoke checks on **Linux, macOS and Windows**. See [commit-specific GitHub Actions results](https://github.com/VIONWILLIAMS/EXO-Forge-Studio/actions/workflows/ci.yml) for each runner; those headless checks do not exercise a GPU viewport. The original local design project and its running service were preserved.
+
+中文：自动安装已在全新 Mac 副本验证，包括无 Node 环境、缺少资源、重复启动、端口冲突及 88 项软件测试。GitHub 工作流另外验证三个系统的安装和 HTTP 启动；这些检查不替代浏览器显卡渲染或实机验证。
+
 ## Limits
 
 The JavaScript build still reports a large 3D chunk (approximately 1.51 MB minified, 446 kB gzip); this warning is not a failed build. Other viewport sizes, touch/mobile operation and all possible browser/GPU combinations have not been exhaustively tested in this release pass.

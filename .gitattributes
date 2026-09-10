@@ -1,4 +1,8 @@
 * text=auto
+*.sh text eol=lf
+*.ps1 text eol=crlf
+scripts/node-version.txt text eol=lf
+scripts/node-sha256.txt text eol=lf
 *.glb binary
 *.blend binary
 *.mp4 binary
@@ -12,4 +16,7 @@ assets/reference/gait/** -text
 assets/vendor/** -text
 cad/**/output/** -text
 public/assets/** -text
+public/** -text
+assets/** -text
+output/** -text
 *.step -text

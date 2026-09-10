@@ -8,18 +8,27 @@
 
 ![ATLAS 动作工作台](docs/images/atlas-workbench-en.png)
 
+## 交给 Codex 自动安装
+
+在本地 Codex 任务中发送：
+
+> 请安装并启动这个项目：https://github.com/VIONWILLIAMS/EXO-Forge-Studio 。读取 AGENTS.md，自动准备运行环境与资源，打开网页并检查模型加载和动作播放。
+
+[Codex 执行说明](AGENTS.md) · [自动安装、资源来源与排错](docs/INSTALL.zh-CN.md)
+
 ## 直接运行
 
-需要 **Node.js 22.13 或更新版本**及 npm。显示模型和成品视频已包含，不需要 Git LFS、Blender、后端服务或 API 密钥。
+启动脚本会自动准备 Node.js 和网页依赖。显示模型、骨骼、参考数据和成品视频已包含，不需要 Git LFS、Blender、后端服务或 API 密钥。
 
 ```sh
-git clone https://github.com/VIONWILLIAMS/EXO-Forge-Studio.git
+git clone --depth 1 https://github.com/VIONWILLIAMS/EXO-Forge-Studio.git
 cd EXO-Forge-Studio
-npm ci
-npm run dev -- --strictPort
+bash start.sh
 ```
 
-打开 [中文工作台](http://127.0.0.1:4177/?lang=zh) 或 [50 秒介绍](http://127.0.0.1:4177/?demo=intro&lang=zh)。这两个地址需要先在自己的电脑上启动服务；它们不是在线托管地址。运行时保持终端打开。4177 被占用时，可停止冲突服务，或用 `--port` 指定其他端口。
+Windows 克隆后运行 `powershell -NoProfile -ExecutionPolicy Bypass -File .\start.ps1`。以后使用同一条启动命令即可。环境安装在项目目录，网站就绪后自动打开浏览器。全新浅克隆下载约 **144 MB**，解压后的版本文件约 **342 MB**；建议为环境、依赖和构建预留 **2 GB**。
+
+默认入口为 [中文工作台](http://127.0.0.1:4177/?lang=zh) 或 [50 秒介绍](http://127.0.0.1:4177/?demo=intro&lang=zh)。需要在自己的电脑上保持服务终端运行；它们不是在线托管地址。4177 被占用时，脚本会换到下一个空闲端口，并打印真实地址；`--port 4180` 则要求使用指定端口。没有 Git 时，见 [压缩包安装说明](docs/INSTALL.zh-CN.md)。
 
 推荐使用支持 WebGL2 的桌面浏览器。首次加载模型可能需要几秒。顶部「中文 / EN」切换全局语言，并记住选择；链接中的 `lang=zh`、`lang=en` 优先于记忆值。
 
@@ -51,6 +60,8 @@ npm run dev -- --strictPort
 工程细节见 [R04 研发交接](cad/v04/README.zh-CN.md)、[开发说明](docs/DEVELOPMENT.md) 和 [本次验证](docs/VERIFICATION.md)。历史报告和本次实际运行的测试分别标注。
 
 ## 开发与检查
+
+执行 `bash start.sh --check`（Windows 在 PowerShell 启动命令末尾加 `--check`），即可自动安装、检查资源、测试和构建。如果已经能直接使用 Node/npm，原有命令也继续可用：
 
 ```sh
 npm test

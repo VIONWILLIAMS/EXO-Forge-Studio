@@ -2,6 +2,8 @@
 
 ## Run the application
 
+Start with `bash start.sh` on macOS/Linux, or `powershell -NoProfile -ExecutionPolicy Bypass -File .\start.ps1` on Windows. `--check` installs the runtime, verifies resources, runs tests and builds. See [automatic installation](INSTALL.md) / [中文安装说明](INSTALL.zh-CN.md), including upstream asset URLs and the agent workflow in root `AGENTS.md`.
+
 The entrypoint is `src/main.tsx`, built by Vite. The default route loads `AtlasWorkbench`; `?view=legacy` opens the earlier parameterized concept workbench. The app needs no backend or API key. In a public checkout, `npm run build` writes a normal static site to `dist/`. The original Sites build pipeline is enabled only when a local `.openai/hosting.json` exists; it then writes `dist/client` and a worker in `dist/server/index.js`. Private hosting registration files are intentionally absent.
 
 The current UI is R04 with M8 motion choreography and M6 articulated geometry. `src/domain/atlasMotion.ts` calculates poses, `atlasMotionRig.ts` applies them to the existing rig, and `atlasScenario.ts` coordinates props/tasks. `src/i18n/en.json` maps Chinese source text to English; `zh.json` contains Chinese overrides for shared secondary labels. Locale lives in `exo-forge-language` browser storage and optional `lang` URL parameters.

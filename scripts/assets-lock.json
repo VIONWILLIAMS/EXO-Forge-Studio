@@ -1,0 +1,1846 @@
+{
+  "version": 1,
+  "sourceRevision": "cb9be4a06ea277ceb8eaf405e92e9f0d175d4880",
+  "files": [
+    {
+      "path": "assets/reference/gait/LICENSE-CC-BY-4.0.txt",
+      "bytes": 17023,
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744"
+    },
+    {
+      "path": "assets/reference/gait/RBDS001processed.txt",
+      "bytes": 130438,
+      "sha256": "aa63c23379e26b0419ec5309d789c0507ff39ebf00d476f9a4570cfd481117c5"
+    },
+    {
+      "path": "assets/reference/gait/RBDS002processed.txt",
+      "bytes": 130005,
+      "sha256": "cc870ec7f99290b06a645d2d89e66082533e85c1fdea4934992976290c8ffd60"
+    },
+    {
+      "path": "assets/reference/gait/RBDS003processed.txt",
+      "bytes": 130231,
+      "sha256": "3815d591dbd31bd830fdb32f99f0e51516493d4b465bbadcf8322db88a26cd03"
+    },
+    {
+      "path": "assets/reference/gait/RBDS004processed.txt",
+      "bytes": 131097,
+      "sha256": "bccd20cbdaeb6e3139732bdf69ecd7c943d0adc8175da5dd374a3338fcbb0fda"
+    },
+    {
+      "path": "assets/reference/gait/RBDS005processed.txt",
+      "bytes": 130837,
+      "sha256": "1dce073c7a7c885804a632845c7aec6c1f494e0b684dfb1a97543271eb1f34e8"
+    },
+    {
+      "path": "assets/reference/gait/RBDS006processed.txt",
+      "bytes": 130114,
+      "sha256": "0756d44ea4467ae90dd7f45bc09d761fbb7165f29620b643fcf2e52d58df9c3e"
+    },
+    {
+      "path": "assets/reference/gait/RBDS007processed.txt",
+      "bytes": 130474,
+      "sha256": "3303bf9abdde98dd5433021dc4c1ed567a67b14a0f24337f12208fffaa72148b"
+    },
+    {
+      "path": "assets/reference/gait/RBDS008processed.txt",
+      "bytes": 130303,
+      "sha256": "042d3a00e6e887c43e55f13252adbb05f8a254b35dd6a8314ee470141cc1292f"
+    },
+    {
+      "path": "assets/reference/gait/RBDS009processed.txt",
+      "bytes": 129758,
+      "sha256": "90203cc6409ca2cefb92d0079cc40e205f44d28529408466f86f902b92ac6725"
+    },
+    {
+      "path": "assets/reference/gait/RBDS010processed.txt",
+      "bytes": 129978,
+      "sha256": "8d1c72884c71471f426c8da069a56403de2e4fad24367146b0d2ea6246b15710"
+    },
+    {
+      "path": "assets/reference/gait/RBDS011processed.txt",
+      "bytes": 129854,
+      "sha256": "6bcaa9e2f1dc47af54125d1e8875890b6a9cd0bf8150ff8fb089cb9ba663fb41"
+    },
+    {
+      "path": "assets/reference/gait/RBDS012processed.txt",
+      "bytes": 130160,
+      "sha256": "232f279554f71e38ac295fa84050a682c60f5ea9f9db69e17c2d33279e752ff2"
+    },
+    {
+      "path": "assets/reference/gait/RBDS013processed.txt",
+      "bytes": 129578,
+      "sha256": "7cc904f585fca324faac81681e68d3e29707315267bb6c08b002a975984ee668"
+    },
+    {
+      "path": "assets/reference/gait/RBDS014processed.txt",
+      "bytes": 130233,
+      "sha256": "bdd28e1317254a0fbdfe8b80976352d7d5e9d2bcba14998772aa6241e0da1cd5"
+    },
+    {
+      "path": "assets/reference/gait/RBDS015processed.txt",
+      "bytes": 131105,
+      "sha256": "0ba39fee32c23f67be9f5c01f267a8adf47adeb79f3a73f4d9c690090e6d2867"
+    },
+    {
+      "path": "assets/reference/gait/RBDS016processed.txt",
+      "bytes": 130306,
+      "sha256": "4eb24820b8f967e672f2f8bba17ff9f0dac905a5386034aef5ce1f18f3dc5a38"
+    },
+    {
+      "path": "assets/reference/gait/RBDS017processed.txt",
+      "bytes": 130072,
+      "sha256": "dc3e779d50c18806657e991217376061ac6243ca5ceb77a86c7bef5b4e28741a"
+    },
+    {
+      "path": "assets/reference/gait/RBDS018processed.txt",
+      "bytes": 129093,
+      "sha256": "f2c1a4985aaf1d0eb529f5e0e94832feb60b11e1f34a6ac76ec277b903cc0fa5"
+    },
+    {
+      "path": "assets/reference/gait/RBDS019processed.txt",
+      "bytes": 129324,
+      "sha256": "4019266c775ef840c5484a463f4447dbbc2c35d920574c67f23f609adcd93796"
+    },
+    {
+      "path": "assets/reference/gait/RBDS020processed.txt",
+      "bytes": 129567,
+      "sha256": "d714afcabee254ad7e416ba07eab075a7b922194bb284842bf6b5cae67bdca25"
+    },
+    {
+      "path": "assets/reference/gait/RBDS021processed.txt",
+      "bytes": 129282,
+      "sha256": "187054d27a6d60a7b18934d0738489f79cece8f419c4525dffedcb962611456e"
+    },
+    {
+      "path": "assets/reference/gait/RBDS022processed.txt",
+      "bytes": 129871,
+      "sha256": "b2e62139a486c3e8a200cf9e87f4ab00636dfe7341ff048843d715e6c5ec25ad"
+    },
+    {
+      "path": "assets/reference/gait/RBDS023processed.txt",
+      "bytes": 130109,
+      "sha256": "7940dd98c21fcb11e9b16934e8bc72449504ed8107c56f38328f0646433202c7"
+    },
+    {
+      "path": "assets/reference/gait/RBDS024processed.txt",
+      "bytes": 130227,
+      "sha256": "4f14e01385db309125083cae17660a8e6947f28159f16236aa56aa13be1b7f0f"
+    },
+    {
+      "path": "assets/reference/gait/RBDS025processed.txt",
+      "bytes": 129502,
+      "sha256": "9a5acf04e573aa768875cf97a7e7766e5bef4a26dd5a7cd1d380c308e1e4ca3c"
+    },
+    {
+      "path": "assets/reference/gait/RBDS026processed.txt",
+      "bytes": 129848,
+      "sha256": "50f80d6a786368aaa4a927ebecd4f88fa510f46be2de536af3096c33ee5cc56b"
+    },
+    {
+      "path": "assets/reference/gait/RBDS027processed.txt",
+      "bytes": 129545,
+      "sha256": "8758ccf4bf71dccae1be883deff9a619bc6a18c3c8ab3ca191a70a1497da58c6"
+    },
+    {
+      "path": "assets/reference/gait/RBDS028processed.txt",
+      "bytes": 129516,
+      "sha256": "39ef19ecc0f4d452bf9dcde53b10f05cd04af421561900afbc10dafbfc8f24a8"
+    },
+    {
+      "path": "assets/reference/gait/RBDSinfo.txt",
+      "bytes": 112389,
+      "sha256": "b4c64b26ed742e7778c317542422adc36091ce11f7a2cb8ae2db446bfda919df"
+    },
+    {
+      "path": "assets/reference/gait/README.md",
+      "bytes": 3185,
+      "sha256": "ca40e2ef4cad2caddb890b5f8966be2ea18b0cd308a248729510920bd12306ea"
+    },
+    {
+      "path": "assets/reference/gait/WBDS01walkT05ang.txt",
+      "bytes": 26137,
+      "sha256": "544817100bf751fa0d8e0869b34ef8a8f334cb9a68f74bc0f146b011f26798b3"
+    },
+    {
+      "path": "assets/reference/gait/WBDS02walkT05ang.txt",
+      "bytes": 26390,
+      "sha256": "bac65776cb4fc66f78eed744d51abdeedbbd73870f4b422b0e721f015e2fbefd"
+    },
+    {
+      "path": "assets/reference/gait/WBDS03walkT05ang.txt",
+      "bytes": 26261,
+      "sha256": "5cdda8b5e2a8d8ac317970afbebdef61077e3e4d65bd22a90a757bf475964914"
+    },
+    {
+      "path": "assets/reference/gait/WBDS04walkT05ang.txt",
+      "bytes": 25974,
+      "sha256": "b791504db28c3bc2fe41d26f16de7906e8cbcc567d3c51fb9d0a6a2bfd4286c8"
+    },
+    {
+      "path": "assets/reference/gait/WBDS05walkT05ang.txt",
+      "bytes": 25914,
+      "sha256": "b7bd8458a5064cc897b84ab2ac93acd47cbd1e9d6fc21b08cd4e1d90e3205730"
+    },
+    {
+      "path": "assets/reference/gait/WBDS06walkT05ang.txt",
+      "bytes": 26223,
+      "sha256": "ed16eff40a9a2189a364709eceb385fc88ed4bd0d1b43b77e240080254a483b5"
+    },
+    {
+      "path": "assets/reference/gait/WBDS07walkT05ang.txt",
+      "bytes": 26284,
+      "sha256": "9eeea881fa8bfbff2432b986a1996b4b7850fd31ed50a40e5eb842787843081d"
+    },
+    {
+      "path": "assets/reference/gait/WBDS08walkT05ang.txt",
+      "bytes": 25945,
+      "sha256": "c873eb0d771659dd585a63f9ff47305a684c59a71111015971ac170ab3e04701"
+    },
+    {
+      "path": "assets/reference/gait/WBDS09walkT05ang.txt",
+      "bytes": 25998,
+      "sha256": "59389ad50924861fc96f8504753d9126c7ffc513f4e9c8267860ad36bedeb351"
+    },
+    {
+      "path": "assets/reference/gait/WBDS10walkT05ang.txt",
+      "bytes": 26060,
+      "sha256": "3d40cbfd310e3b8509720d4cd12d27fae5f43621fb5735ee7b086793a7ff6c20"
+    },
+    {
+      "path": "assets/reference/gait/WBDS11walkT05ang.txt",
+      "bytes": 26031,
+      "sha256": "d2332361e35fd40495be7c02768623ff2f587f8aa768738e8b2664c24638e8e8"
+    },
+    {
+      "path": "assets/reference/gait/WBDS12walkT05ang.txt",
+      "bytes": 26323,
+      "sha256": "2cd97d78259e6d94b8fe193275c103084e9300a2bc30d1eb07af706cc0eba3d3"
+    },
+    {
+      "path": "assets/reference/gait/WBDS13walkT05ang.txt",
+      "bytes": 26040,
+      "sha256": "b63affc9fddaac0788ca752dcfe74376136832b243c77a92662d26352a6b66ad"
+    },
+    {
+      "path": "assets/reference/gait/WBDS14walkT05ang.txt",
+      "bytes": 26058,
+      "sha256": "03a6d62919559beae3a47ca7c11f9c2cab97a38e82c89271da294402dcd5c105"
+    },
+    {
+      "path": "assets/reference/gait/WBDS15walkT05ang.txt",
+      "bytes": 26031,
+      "sha256": "64f7d5b9a78bbeb2c1c8185936ada7c6806d0be4ef3f2b2945ec2b91c2ca14b9"
+    },
+    {
+      "path": "assets/reference/gait/WBDS16walkT05ang.txt",
+      "bytes": 26273,
+      "sha256": "63308413c8e85f42acba1bc4fbb95d67b312acd74ed5c70ca29825a61e31cc8b"
+    },
+    {
+      "path": "assets/reference/gait/WBDS17walkT05ang.txt",
+      "bytes": 26124,
+      "sha256": "fcf68077c50239ace589df4d555bba669257746b0157b7521be84978c0425d9b"
+    },
+    {
+      "path": "assets/reference/gait/WBDS18walkT05ang.txt",
+      "bytes": 25708,
+      "sha256": "ef4db2bb30f025f2cbe1b3d4657b9d613f85b6428791991e8c4bcfe1c3a5576f"
+    },
+    {
+      "path": "assets/reference/gait/WBDS19walkT05ang.txt",
+      "bytes": 25953,
+      "sha256": "bf36df54040258c4c4f08a2ede5d2240ff7117e55707e21c20c9b7b42ea7baa7"
+    },
+    {
+      "path": "assets/reference/gait/WBDS20walkT05ang.txt",
+      "bytes": 25944,
+      "sha256": "546cc6dce28e94166805dcafe1cb074fd4774cb9c4d2a558e786872bfa7f2917"
+    },
+    {
+      "path": "assets/reference/gait/WBDS21walkT05ang.txt",
+      "bytes": 25975,
+      "sha256": "41c67afc06d400e9d8882b5baee6a62f0a756b8c3dd5d3fab22ee407e6845be7"
+    },
+    {
+      "path": "assets/reference/gait/WBDS22walkT05ang.txt",
+      "bytes": 25935,
+      "sha256": "b483eeb3c1abdeca5e8510287e195eae758a91cdcb9fe8f82a7b698245666db0"
+    },
+    {
+      "path": "assets/reference/gait/WBDS23walkT05ang.txt",
+      "bytes": 26168,
+      "sha256": "7baa3b6dd9bff6ac2223ff91fdc255ef74f432b2f8193b53cf7668fbca3cf902"
+    },
+    {
+      "path": "assets/reference/gait/WBDS24walkT05ang.txt",
+      "bytes": 26020,
+      "sha256": "e248ae9bf21d8a0bef74752969f66d0930ca1443007766ca4e6881e395278ee1"
+    },
+    {
+      "path": "assets/reference/gait/WBDS25walkT05ang.txt",
+      "bytes": 26180,
+      "sha256": "3e0b39d54d8231a3357ccc89dcf37a2905ae047ef54476b03256eebd90ff057e"
+    },
+    {
+      "path": "assets/reference/gait/WBDS26walkT05ang.txt",
+      "bytes": 25907,
+      "sha256": "2f1d03abd92272d9a9a8783eb0a8da30b616ad7002a7cb7482c4ec8f9a1ae44a"
+    },
+    {
+      "path": "assets/reference/gait/WBDS27walkT05ang.txt",
+      "bytes": 25971,
+      "sha256": "1306e091ed759b4b95add6cef1d10695d162bedebd76ad3eaad95883586f589f"
+    },
+    {
+      "path": "assets/reference/gait/WBDS28walkT05ang.txt",
+      "bytes": 25977,
+      "sha256": "b92dd4471a3ef48dae417c098718fc3f7433a831fb42002d551395fa4a7ee39d"
+    },
+    {
+      "path": "assets/reference/gait/WBDS29walkT05ang.txt",
+      "bytes": 26135,
+      "sha256": "60e9099ca551304a9e93220dcebe86effa923c930d9c2b0b02ae800814686566"
+    },
+    {
+      "path": "assets/reference/gait/WBDS30walkT05ang.txt",
+      "bytes": 26225,
+      "sha256": "ae0c1388991a13450667fa4ae8d44a4452195b92157367800e22da1b19c0160e"
+    },
+    {
+      "path": "assets/reference/gait/WBDS31walkT05ang.txt",
+      "bytes": 26009,
+      "sha256": "523fe39d4026636daf5f687a88b26a1219d4ae91d6a0fb6b1747e66cb3d71763"
+    },
+    {
+      "path": "assets/reference/gait/WBDS32walkT05ang.txt",
+      "bytes": 26046,
+      "sha256": "9d5ac0b1d3ef3873c7d0829f7fc60a8948e26ffb431ce0ba94d610a3bc7d53db"
+    },
+    {
+      "path": "assets/reference/gait/WBDS33walkT05ang.txt",
+      "bytes": 26117,
+      "sha256": "754d3c7c77ce7b4e6ced3b8c3dca409e6a1548214f7ef77435eeaf05419b8f62"
+    },
+    {
+      "path": "assets/reference/gait/WBDS34walkT05ang.txt",
+      "bytes": 26125,
+      "sha256": "44e5af9a381c9e7b75169f0ad949db04ed2ffcd584032b25f2add81ed2dd804e"
+    },
+    {
+      "path": "assets/reference/gait/WBDS35walkT05ang.txt",
+      "bytes": 26122,
+      "sha256": "45aaddaa12f77ff70b1615dd9aab69c6e9cd8d7dc72914f9fddff85891309696"
+    },
+    {
+      "path": "assets/reference/gait/WBDS36walkT05ang.txt",
+      "bytes": 26236,
+      "sha256": "cbd64ca779fd00121bb57d596b15b8e5872745c705e2e84eac174731c5813fa2"
+    },
+    {
+      "path": "assets/reference/gait/WBDS37walkT05ang.txt",
+      "bytes": 25874,
+      "sha256": "7fde9f8eeaffa929302b3190727b3234de26a256ba97dc84be1d68a7ea410707"
+    },
+    {
+      "path": "assets/reference/gait/WBDS38walkT05ang.txt",
+      "bytes": 26162,
+      "sha256": "60dcfbf26bf1c6d29a182afe261c6f351baa1b03506c2dc307e75570db0c5787"
+    },
+    {
+      "path": "assets/reference/gait/WBDS39walkT05ang.txt",
+      "bytes": 25719,
+      "sha256": "1376ccb02c071b81162427292749e6a39793ca401943a4eddc926bd2ab13e039"
+    },
+    {
+      "path": "assets/reference/gait/WBDS40walkT05ang.txt",
+      "bytes": 25945,
+      "sha256": "59e6f93a3fdf7f25ac763017de112212ecc4bb0ecb19ab15bcc1b5251524fcdd"
+    },
+    {
+      "path": "assets/reference/gait/WBDS41walkT05ang.txt",
+      "bytes": 26168,
+      "sha256": "60447685061e53c67833a16975dd5d1e380c9a701238d822c5146085c7697d86"
+    },
+    {
+      "path": "assets/reference/gait/WBDS42walkT05ang.txt",
+      "bytes": 26252,
+      "sha256": "1ea73bbd71bfde4b483443391db0411aae81f1ecccb50b1db791d576850b2447"
+    },
+    {
+      "path": "assets/reference/gait/WBDSinfo.xlsx",
+      "bytes": 551602,
+      "sha256": "2d3f5bac1002c2483bd26b82e77a044523b8474bb0e5fe88f6d4b3dc717312f6"
+    },
+    {
+      "path": "assets/reference/gait/figshare-4543435.json",
+      "bytes": 128843,
+      "sha256": "9c3cca724d3cde1a199eec27816e94449ff0090015d3375e6625cceaf821bc63"
+    },
+    {
+      "path": "assets/reference/gait/figshare-5722711.json",
+      "bytes": 6590,
+      "sha256": "477ce3575031a74dd178e15b1c81632141b68fee780cc34bb7c37d5d766a9dbe"
+    },
+    {
+      "path": "assets/reference/gait/provenance.json",
+      "bytes": 16271,
+      "sha256": "4cd15d8a9866388f14bbd0ea2049b5e6098b8a308c8414e7833d457856fcf327"
+    },
+    {
+      "path": "assets/source/exo-forge-v0.1.blend",
+      "bytes": 364278,
+      "sha256": "5bc5e61b77b460406688144d16d40edae58ec3095ffb0a15b31b29360aea6172"
+    },
+    {
+      "path": "assets/source/v03/EXO_ATLAS_R03.blend",
+      "bytes": 5356667,
+      "sha256": "8f980e5c4fdb080951163fa3f4d0769d2e7d1324229e5723d6f4f08d72a6d33b"
+    },
+    {
+      "path": "assets/source/v04/EXO_ATLAS_R04.blend",
+      "bytes": 6809587,
+      "sha256": "1cf6b3ef26a7070475916073150b691ad60b969b1f7f2e208f529f546f540ef1"
+    },
+    {
+      "path": "assets/source/v04/EXO_ATLAS_R04_MOTION.blend",
+      "bytes": 12617043,
+      "sha256": "0ce952506b44bdae687d1507bc37280c2e1d99f4caa2e8a59f7445ffc91cba41"
+    },
+    {
+      "path": "assets/source/v04/EXO_ATLAS_R04_MOTION_M3.blend",
+      "bytes": 12145205,
+      "sha256": "89ab49ce0e453ad18245dd784b26188d539c8ab8959707cd6ea8a049be4bb948"
+    },
+    {
+      "path": "assets/source/v04/EXO_ATLAS_R04_MOTION_M6.blend",
+      "bytes": 13198964,
+      "sha256": "fe6839567403e8d8e9fde62fd37831d7dd27c78590c87c50b56bcd3c7734d3dd"
+    },
+    {
+      "path": "assets/source/v04/m6-environment/environment-source.blend",
+      "bytes": 1195514,
+      "sha256": "2d229c1f6934d63ab206096bd8de1429aa43a6aa55fc5ad670d84b607980914e"
+    },
+    {
+      "path": "assets/vendor/makehuman/LICENSE.ASSETS.md",
+      "bytes": 6962,
+      "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+    },
+    {
+      "path": "assets/vendor/makehuman/LICENSE.md",
+      "bytes": 3598,
+      "sha256": "edd99571ca62698f78c943fd4fffb159a413c315fa0d4819d3cec5cadaf8b4f1"
+    },
+    {
+      "path": "assets/vendor/makehuman/SOURCE.md",
+      "bytes": 576,
+      "sha256": "d04c9b87d7c8fb536f2c5ae4ee359f1755aa179d4009b9fe826fe8c5df03b4c8"
+    },
+    {
+      "path": "assets/vendor/makehuman/base.obj",
+      "bytes": 1749303,
+      "sha256": "8e761e6624b8f54536409135d1636da63b32486a90d4897f84e121d144f6fb4c"
+    },
+    {
+      "path": "output/v04/anatomy-validation.json",
+      "bytes": 900,
+      "sha256": "db842fffb60a77ca74b5a4d073e41218fa931e3805b683e332039c3550cfd40c"
+    },
+    {
+      "path": "output/v04/cad-display-alignment.json",
+      "bytes": 15074,
+      "sha256": "e04d83a631f8d4354d239694f572c0379f8b9679e6600be20ff192dcd680236a"
+    },
+    {
+      "path": "public/assets/EXO_FORGE_CAD_V02_PRINT_PACK.zip",
+      "bytes": 1421461,
+      "sha256": "ff303a8d7abcd623f535d0ad6cb1f12f72f5ec8b72ae41127a73a1097d604d64"
+    },
+    {
+      "path": "public/assets/exo-design-config.v0.1.json",
+      "bytes": 928,
+      "sha256": "ad65016ff83bd2bdcfca758c63aa2200a04aa28fd93d636b1b9e8ba76871ca83"
+    },
+    {
+      "path": "public/assets/exo-forge-cad-v02-validation.json",
+      "bytes": 30785,
+      "sha256": "ef6aa1753d74943093847b3434ad2ddeae7ad53aade5375647a67e809a33eea7"
+    },
+    {
+      "path": "public/assets/exo-forge-cad-v02.glb",
+      "bytes": 2234848,
+      "sha256": "85043cd82ea9c92ff5103ffbb2561d6029d642a6d4460525a6c721710dfc86fb"
+    },
+    {
+      "path": "public/assets/exo-forge-hero.glb",
+      "bytes": 3017956,
+      "sha256": "b5d9accaf4d0ee9f00556654368022142b6a0da9a7441723f43e91e181994406"
+    },
+    {
+      "path": "public/assets/exo-forge-lod.glb",
+      "bytes": 1585040,
+      "sha256": "08bc30f80dd92fbda0ac1e9424b7095d088dbfab1d63de6ba6894d8ab6329959"
+    },
+    {
+      "path": "public/assets/module-manifest.v0.1.json",
+      "bytes": 5404,
+      "sha256": "c71e44b67a2921c2cf6df14b72cda019057327bb18b735d9e93865b51e873945"
+    },
+    {
+      "path": "public/assets/v03/ATLAS_R03_ENGINEERING.zip",
+      "bytes": 4852536,
+      "sha256": "c88cbb31867d16ba06812f5ee4a24ebde7d04603a8a25fa585ea9cddc9c5b531"
+    },
+    {
+      "path": "public/assets/v03/assembly.json",
+      "bytes": 193540,
+      "sha256": "dc1f24b4e8ab82425a9bd563823e29868297501845c67c2f93af84a38f15bdaf"
+    },
+    {
+      "path": "public/assets/v03/atlas-r03.glb",
+      "bytes": 14598364,
+      "sha256": "2c3ee153081c191b549eeb35b1b229bb890d79a26b7787d234161da13e68eed8"
+    },
+    {
+      "path": "public/assets/v03/drawings/A01_FLANGE.dxf",
+      "bytes": 16497,
+      "sha256": "cc2a91f39bed181496e6f101e1443b1d3429f1edd92cccfb41b72216167b9298"
+    },
+    {
+      "path": "public/assets/v03/drawings/A01_FLANGE.svg",
+      "bytes": 139774,
+      "sha256": "eed3e16fe6706389b6088528f484f1c23a9fef5fa1ba57187e3522b0b6538ce6"
+    },
+    {
+      "path": "public/assets/v03/drawings/A03_FLANGE.dxf",
+      "bytes": 16496,
+      "sha256": "fc7f80134356080a778128411c7e375e0d62b3e99edaf5862c6e149f9dccc3d3"
+    },
+    {
+      "path": "public/assets/v03/drawings/A03_FLANGE.svg",
+      "bytes": 135215,
+      "sha256": "5a3401d758b3c25c724e2708acf0cb4d4137a0dc11f11aa40b0f84217fc3f16a"
+    },
+    {
+      "path": "public/assets/v03/drawings/A04_TOOL_FLANGE.dxf",
+      "bytes": 16020,
+      "sha256": "a7710d72980131b976549f83374e3616bc2b9fa9e6acd6468cdd3de800332012"
+    },
+    {
+      "path": "public/assets/v03/drawings/A04_TOOL_FLANGE.svg",
+      "bytes": 43702,
+      "sha256": "698617f7ac7948a5420416147a28d620e1d157e6ac3ce7335305cf3627ba31c6"
+    },
+    {
+      "path": "public/assets/v03/drawings/F01_SCAPULAR_BRIDGE.dxf",
+      "bytes": 20303,
+      "sha256": "ea07ca123ffdacd3802ebdf7978175faae90eab055fb498279c50e27da7a095b"
+    },
+    {
+      "path": "public/assets/v03/drawings/F01_SCAPULAR_BRIDGE.svg",
+      "bytes": 31684,
+      "sha256": "dc19c5ab7039c32592b51bf83e1f68fa56f1deeac34dd31d16b4b436ef1ac5e6"
+    },
+    {
+      "path": "public/assets/v03/drawings/L02_TIE_LUG.dxf",
+      "bytes": 16622,
+      "sha256": "0dc701a1103c4f4ce4b9fe7d10f8107d0f8299ed730151bd1a27810400093a91"
+    },
+    {
+      "path": "public/assets/v03/drawings/L02_TIE_LUG.svg",
+      "bytes": 13867,
+      "sha256": "4256d13bcf8810ddd307e80e6824b1460214fd5d77eab0bf3c7f7b43cbf02b2c"
+    },
+    {
+      "path": "public/assets/v03/drawings/L05_ANKLE_FORK.dxf",
+      "bytes": 17989,
+      "sha256": "809632a2a373a2bf260c9190a9ac21db8030368788467ecf336347646d627ad6"
+    },
+    {
+      "path": "public/assets/v03/drawings/L05_ANKLE_FORK.svg",
+      "bytes": 22143,
+      "sha256": "46192eefcf6fe68a020cb0ebacf2e0950cb82c5028e9ef4511aaf240c4edafa0"
+    },
+    {
+      "path": "public/assets/v03/drawings/L06_FOREFOOT_PLATE.dxf",
+      "bytes": 17949,
+      "sha256": "749025ac5499f75ca568f6d2382140879eb4fbdb59e280b90c3eeb9e787002b3"
+    },
+    {
+      "path": "public/assets/v03/drawings/L06_FOREFOOT_PLATE.svg",
+      "bytes": 13610,
+      "sha256": "65f3327731cbef61f056196d63f2189d17516a49cdbb3baca2115ad63b43e875"
+    },
+    {
+      "path": "public/assets/v03/drawings/L06_HEEL_PLATE.dxf",
+      "bytes": 17710,
+      "sha256": "f11d19e5ff3444993c9fc28371e7fa0987e6c2a754a34a71329aed2749747b13"
+    },
+    {
+      "path": "public/assets/v03/drawings/L06_HEEL_PLATE.svg",
+      "bytes": 21744,
+      "sha256": "92464453978d85bc4bfd71305fbb5ebfd53c3efb523ee3d69d55e91dbff28dd0"
+    },
+    {
+      "path": "public/assets/v03/drawings/index.json",
+      "bytes": 1590,
+      "sha256": "a4d58c5fa7f625b8c85e988379305d8a72fb3c1f6ac60b633ccea6a4cbd0777c"
+    },
+    {
+      "path": "public/assets/v03/step/A01_BEARING.step",
+      "bytes": 14631,
+      "sha256": "636956e00dbcf3f53025fb7649d0ce4d2f61593da030b496d23f2d93fe3422fb"
+    },
+    {
+      "path": "public/assets/v03/step/A01_CAP.step",
+      "bytes": 14594,
+      "sha256": "00caf2c6110461d2f13649197089ac8232efe1eb36a282a82541581e4163692e"
+    },
+    {
+      "path": "public/assets/v03/step/A01_COVER.step",
+      "bytes": 14593,
+      "sha256": "5915a0356c194de7c0793fb296094d7c780fec530cc27bbf6db0cf12b6b64703"
+    },
+    {
+      "path": "public/assets/v03/step/A01_DELTOID_INLAY.step",
+      "bytes": 145654,
+      "sha256": "be7c54248ded1935da65dfb5a1a4c6ac5786915857be41fdae65fc65b0120866"
+    },
+    {
+      "path": "public/assets/v03/step/A01_DELTOID_SHELL.step",
+      "bytes": 248176,
+      "sha256": "22f9d5a71d21275a6f4521fc09f8dcbaa454034eda79ef0eee9a77806b1116b6"
+    },
+    {
+      "path": "public/assets/v03/step/A01_FLANGE.step",
+      "bytes": 126734,
+      "sha256": "5fe65d33c6fd936474a7e7af6cb4d507cc642727b08ca9db945aad50d023838f"
+    },
+    {
+      "path": "public/assets/v03/step/A01_HOUSING.step",
+      "bytes": 14605,
+      "sha256": "8216ba581c1441ae4d1d9ec4b6960fa04cb5b394b9202e4c66aa3bc64f1952cd"
+    },
+    {
+      "path": "public/assets/v03/step/A01_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "b474176baa95f7a64daad8632738eef35b7da870bb7c55401a4e8bde106231c8"
+    },
+    {
+      "path": "public/assets/v03/step/A01_YAW_BASE.step",
+      "bytes": 126502,
+      "sha256": "bad2c69c77e5c38cc368a665b57d76dc3cd34094b5041e007a5c091ea64635c9"
+    },
+    {
+      "path": "public/assets/v03/step/A01_YOKE.step",
+      "bytes": 79835,
+      "sha256": "8f97b3129516e7abb99d6319bbd058d9f255bf83592be39e009d38481117687b"
+    },
+    {
+      "path": "public/assets/v03/step/A02_ARM_INLAY.step",
+      "bytes": 90940,
+      "sha256": "4b2e1f077e3bd08305b50110f22807bae5dd56e17a9125d3ac73d032b5ae6618"
+    },
+    {
+      "path": "public/assets/v03/step/A02_ARM_RAIL.step",
+      "bytes": 61474,
+      "sha256": "06fdafb8df71ab49731a0dd0a93b4f2faffe8473b0be6eaa44ac3b65cea68543"
+    },
+    {
+      "path": "public/assets/v03/step/A02_ARM_SHELL.step",
+      "bytes": 345728,
+      "sha256": "70d4e8c52c4322c47b2a707a9b4e94e7866079525e9fcb498163caadaed16c7c"
+    },
+    {
+      "path": "public/assets/v03/step/A03_BEARING.step",
+      "bytes": 14636,
+      "sha256": "020b2babdaeb8660dd9effe42c504d275e2b28521235460f9940d72bdd582398"
+    },
+    {
+      "path": "public/assets/v03/step/A03_CAP.step",
+      "bytes": 14594,
+      "sha256": "72c05dca19767e34e0cda5b1ef159531c7d8b2e3dc1ceb9bf454270edc10cf1e"
+    },
+    {
+      "path": "public/assets/v03/step/A03_COVER.step",
+      "bytes": 14609,
+      "sha256": "8681a0b1df1a93bb79c8abfdbed06925cb6d7dda5ff9391b7e2ff1df02ba6dfc"
+    },
+    {
+      "path": "public/assets/v03/step/A03_FLANGE.step",
+      "bytes": 126722,
+      "sha256": "ee6f2399f2a4e39ebcc853b271aa72752231a4a5eb1e96883622c284eb56311c"
+    },
+    {
+      "path": "public/assets/v03/step/A03_HOUSING.step",
+      "bytes": 14614,
+      "sha256": "e034b5e2c17838973747d3d74eb5064d66b6cefc23253812109eb4ec0e308d57"
+    },
+    {
+      "path": "public/assets/v03/step/A03_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "91e4dbb8992414ca6f9bbb85108807dad904a0b91089dd99d98ad72d0c33fcd4"
+    },
+    {
+      "path": "public/assets/v03/step/A04_BEARING.step",
+      "bytes": 14619,
+      "sha256": "cb83c7d2e4be54557072091e77c04d5cfd359e70a4277dba391789fea81d2271"
+    },
+    {
+      "path": "public/assets/v03/step/A04_CAP.step",
+      "bytes": 14604,
+      "sha256": "e0e0e1debafef44785239a69e4c0e4058f7e18b77fcc1d81ea1e868229878634"
+    },
+    {
+      "path": "public/assets/v03/step/A04_COVER.step",
+      "bytes": 14609,
+      "sha256": "a9224e019519a2eb432d77e35dac8bb860fd8f9dd281a79b68b632f57db87353"
+    },
+    {
+      "path": "public/assets/v03/step/A04_FLANGE.step",
+      "bytes": 126543,
+      "sha256": "2f95268abc317cb4f7fd08455d1705a6299c329741616b057297d5841c80a3cf"
+    },
+    {
+      "path": "public/assets/v03/step/A04_FOREARM_RAIL.step",
+      "bytes": 61572,
+      "sha256": "cf8e6e69f82704d53e2b66eb133544f0f6b079aeb3777d3fe9107e08e5a071ee"
+    },
+    {
+      "path": "public/assets/v03/step/A04_FOREARM_SHELL.step",
+      "bytes": 92111,
+      "sha256": "5347de78bf7c84abe8935a84a61f2e6436f3468e24b45ffbd26e7cf9a878e0f6"
+    },
+    {
+      "path": "public/assets/v03/step/A04_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "616217a367041b76269fe4d77ff3c310590a684b285800cbc48d45411a11c325"
+    },
+    {
+      "path": "public/assets/v03/step/A04_JAW.step",
+      "bytes": 54176,
+      "sha256": "daa55e427149fc8e920cb9fe56274ad91cf930015ef64242841d1cb4b43b4bc5"
+    },
+    {
+      "path": "public/assets/v03/step/A04_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "3d3b28d016455c0486e0e3cb7d018447b0d34c44c8f14b9ce1bdf798038ac669"
+    },
+    {
+      "path": "public/assets/v03/step/A04_PAD.step",
+      "bytes": 31839,
+      "sha256": "01e73aad7798fc6b5b47bac2cb1980e59b0c4cf33077ffca594a75a284fe0797"
+    },
+    {
+      "path": "public/assets/v03/step/A04_PALM.step",
+      "bytes": 45248,
+      "sha256": "bf7fbd416cd18a9f604966723eccccf67b7ca2502d8d11ba3960dd10cb01e665"
+    },
+    {
+      "path": "public/assets/v03/step/A04_ROLL.step",
+      "bytes": 126602,
+      "sha256": "943e64da150e2b2d12c3d5035b8347c31479b26f1562f0e16ab04c955b5230a5"
+    },
+    {
+      "path": "public/assets/v03/step/A04_TOOL_FLANGE.step",
+      "bytes": 41777,
+      "sha256": "c13ea351039f40872a419723b78835c6b4bf4f850d283b657e5fc74496f93bac"
+    },
+    {
+      "path": "public/assets/v03/step/F01_SCAPULAR_BRIDGE.step",
+      "bytes": 145946,
+      "sha256": "d6aab803204e4d5a611853ade9d2aad3660fb3a0427d19b3970073bade2c2930"
+    },
+    {
+      "path": "public/assets/v03/step/F02_DORSAL_RAIL.step",
+      "bytes": 61404,
+      "sha256": "002492adb63106d54bdb221b704554b746810f93b1c8b0c31effaf8ecde2aaa4"
+    },
+    {
+      "path": "public/assets/v03/step/F02_SLIDE_BLOCK.step",
+      "bytes": 45198,
+      "sha256": "5cea43fc739f28acd80e813e57230e70946667c6255b671ea0b5432a98cf3432"
+    },
+    {
+      "path": "public/assets/v03/step/F02_VERTEBRA_GUARD.step",
+      "bytes": 132886,
+      "sha256": "b1842a23312af15b55ae7612b813390ce0a639297593475c79605e7d3211334d"
+    },
+    {
+      "path": "public/assets/v03/step/F03_PELVIC_SADDLE.step",
+      "bytes": 40575,
+      "sha256": "566e9faf0dc710e9a6158b51c74d55149a5882b42f7e926d76d7ab4108a12db0"
+    },
+    {
+      "path": "public/assets/v03/step/F03_SIDE_SHELL.step",
+      "bytes": 89701,
+      "sha256": "ea0a3249403fe836b0b97ad271e6919529d349523ab6805276d14906801a265d"
+    },
+    {
+      "path": "public/assets/v03/step/H01_BADGE.step",
+      "bytes": 31839,
+      "sha256": "a8bf282e798fbc1dbc1546c9c93e1f6956b02c3f74ad9c7c6638e63e7ad55247"
+    },
+    {
+      "path": "public/assets/v03/step/H01_CHEST_PAD.step",
+      "bytes": 123153,
+      "sha256": "08128e8c5b4526a074dfefed628cbac0f695cf5e61e121eaaebc541945d52180"
+    },
+    {
+      "path": "public/assets/v03/step/H01_CHEST_PLATE.step",
+      "bytes": 194236,
+      "sha256": "a098039c06f31a819d496f10bbece0fb57b91f9b58534b0e4e20bb33b806dac1"
+    },
+    {
+      "path": "public/assets/v03/step/H02_CUFF.step",
+      "bytes": 40687,
+      "sha256": "5471ab34684d2209edf8dd3320267178db89b5587dc3f64bd602b103f2087c14"
+    },
+    {
+      "path": "public/assets/v03/step/H03_BEARING.step",
+      "bytes": 14599,
+      "sha256": "1625fab782ac9d2fdf3e307d68671ffc9b07509ce559b8b8dc85e5ba84235281"
+    },
+    {
+      "path": "public/assets/v03/step/H03_CAP.step",
+      "bytes": 14592,
+      "sha256": "d37d8afdf6029e494b5a18cc05edd23dc7ec67e74e4c0dec7d1e4777065ff6c5"
+    },
+    {
+      "path": "public/assets/v03/step/H03_COVER.step",
+      "bytes": 14597,
+      "sha256": "bee21ea52ffd59521aa6386d61c26d3be5f2a93f05f2e1264168045f12a7406d"
+    },
+    {
+      "path": "public/assets/v03/step/H03_FLANGE.step",
+      "bytes": 126607,
+      "sha256": "3cafb56df720994c7727fb41096af56ce09d3b2a7aae6687652e229425944acf"
+    },
+    {
+      "path": "public/assets/v03/step/H03_GRIP.step",
+      "bytes": 32029,
+      "sha256": "229aac2d27d21154e14b27e7311a1923e06913d79f6055130c2d83979cab5421"
+    },
+    {
+      "path": "public/assets/v03/step/H03_HOUSING.step",
+      "bytes": 14617,
+      "sha256": "a5e1b3a03ffdac311a4b48b4ee424a87059e4dd7e605292fbd8f1b9d4940d327"
+    },
+    {
+      "path": "public/assets/v03/step/H03_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "a5368971baae6922199f246c6bf39b51e41f619abc647b709f852dcd844ac779"
+    },
+    {
+      "path": "public/assets/v03/step/H03_MASTER_LINK.step",
+      "bytes": 61346,
+      "sha256": "69db28025fee0cc20cef6f709b0ed14ac29df323f27f5891c897772043ce0b44"
+    },
+    {
+      "path": "public/assets/v03/step/L01_BEARING.step",
+      "bytes": 14621,
+      "sha256": "164f2bbf4612791c03ea8eb42ba8190f51637aae8ff10cf6600cca42f09e5a6a"
+    },
+    {
+      "path": "public/assets/v03/step/L01_CAP.step",
+      "bytes": 14617,
+      "sha256": "5ce22d6ea9a81f8cba7e91ca5ee145e831fdf575d63b7281835d8df66101a2b3"
+    },
+    {
+      "path": "public/assets/v03/step/L01_COVER.step",
+      "bytes": 14607,
+      "sha256": "9550878c4b0a676b1de025cbf8541527f1189bdbce57054f7443a90ad665860c"
+    },
+    {
+      "path": "public/assets/v03/step/L01_FLANGE.step",
+      "bytes": 126558,
+      "sha256": "b9d8dc3452768df8153e86ebf1c7dfb2fc56ba8a54490e473c5c944eee6f0ccd"
+    },
+    {
+      "path": "public/assets/v03/step/L01_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "c9f7b71c456b35729eb215474f8d88ad705f753bb7784664552fbfc1f77a1203"
+    },
+    {
+      "path": "public/assets/v03/step/L01_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "0867942f8569eca6340b230117e9a8b7ce9c016cb3f4470c50a54270a15eaca1"
+    },
+    {
+      "path": "public/assets/v03/step/L02_COLOR_INSERT.step",
+      "bytes": 119748,
+      "sha256": "61a1492966b0f4e8da2e5af39ab032557a658275f6632e372ba4757659bf5354"
+    },
+    {
+      "path": "public/assets/v03/step/L02_THIGH_RAIL.step",
+      "bytes": 61522,
+      "sha256": "99c617ffce2cd0310a1885309ad15bf6f3af8b007498b2839cdf411d167451c0"
+    },
+    {
+      "path": "public/assets/v03/step/L02_THIGH_SHELL.step",
+      "bytes": 191368,
+      "sha256": "8cb31c49706d4e2deae756a03eefec5086518cb2f41ed306af7073e06259d03b"
+    },
+    {
+      "path": "public/assets/v03/step/L02_TIE_LUG.step",
+      "bytes": 45224,
+      "sha256": "d7c07f24eea2760a6be1a3681214532c70ea99ee2d9597332430c9671853feed"
+    },
+    {
+      "path": "public/assets/v03/step/L03_BEARING.step",
+      "bytes": 14623,
+      "sha256": "6ea893c0d761c53be7dd3feb6c49e591c5bdfa6e7e67cca899ea07a0544a432b"
+    },
+    {
+      "path": "public/assets/v03/step/L03_CAP.step",
+      "bytes": 14604,
+      "sha256": "b6bd570dd5e82bc7dea519d0b470fe997a2d93d17af14eec8c935068a5a23491"
+    },
+    {
+      "path": "public/assets/v03/step/L03_COVER.step",
+      "bytes": 14603,
+      "sha256": "a56f7a996423e3bbe133a631ca1db6347713ad3eef650fbaeac51327490699c1"
+    },
+    {
+      "path": "public/assets/v03/step/L03_FLANGE.step",
+      "bytes": 126647,
+      "sha256": "6102492d6f44b5a2ce272db36dc889959b73639fbb862fe5ab04b89ab29b8464"
+    },
+    {
+      "path": "public/assets/v03/step/L03_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "65f79cdf312190c9e50b5489523ac9c81e10689587475a05b9573745845a7439"
+    },
+    {
+      "path": "public/assets/v03/step/L03_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "a83d22c5850773bfa6b6d41f6445f2e805f62e0ca3c70953d5d795f5d3f6867d"
+    },
+    {
+      "path": "public/assets/v03/step/L04_COLOR_INSERT.step",
+      "bytes": 111708,
+      "sha256": "f9772e152c22615a7b1afe77a770e46d8047e0bab5422e3ddbacc95e33b41e68"
+    },
+    {
+      "path": "public/assets/v03/step/L04_SHANK_RAIL.step",
+      "bytes": 61494,
+      "sha256": "fc26b317fe87443aef351510d74390c7c8c675655432812fe76d2bab82318de7"
+    },
+    {
+      "path": "public/assets/v03/step/L04_SHANK_SHELL.step",
+      "bytes": 179428,
+      "sha256": "bf4cd6842ceb4343b324ea26923e23fb376758e5caffedc16c4c919a6114353c"
+    },
+    {
+      "path": "public/assets/v03/step/L05_ANKLE_FORK.step",
+      "bytes": 78740,
+      "sha256": "7193823c7fa551ff7fea2300c10bb15e7142ffdb696c9ea4885a065d0edfc35d"
+    },
+    {
+      "path": "public/assets/v03/step/L05_BEARING.step",
+      "bytes": 14623,
+      "sha256": "3075db4147023122ddd2c754e3bfc7516c70fcfeab1497d53b1645cd68524197"
+    },
+    {
+      "path": "public/assets/v03/step/L05_CAP.step",
+      "bytes": 14615,
+      "sha256": "06f03eeacd3854485c258862a156e6260302cea98eea15fba4ed95c111810bd5"
+    },
+    {
+      "path": "public/assets/v03/step/L05_COVER.step",
+      "bytes": 14599,
+      "sha256": "0d44de6075a7ed00d84bf84d410a9326b463d6f40765e7d97769a6744b8d943e"
+    },
+    {
+      "path": "public/assets/v03/step/L05_FLANGE.step",
+      "bytes": 126748,
+      "sha256": "ddf9808eee5cefa0479002a28548c2f76e187553944a8b3bf148a68616c04880"
+    },
+    {
+      "path": "public/assets/v03/step/L05_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "7e8d11511942708133f0780e0280888cd93b0ae09cbc959308bf6a8b6d15c87d"
+    },
+    {
+      "path": "public/assets/v03/step/L05_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "2718d5e4c54ccd5b0faf470e9fc930b88d97531e3cd292c92093cd839893e9f8"
+    },
+    {
+      "path": "public/assets/v03/step/L06_FOREFOOT_PLATE.step",
+      "bytes": 68847,
+      "sha256": "b4003db71294d1cc096cf3786ebefab00b7d8f7a22802e494cf1a315603a51da"
+    },
+    {
+      "path": "public/assets/v03/step/L06_HEEL_CUP.step",
+      "bytes": 40241,
+      "sha256": "ac14e6721b751560b52dfbb6d85f7adef99fcbe67389f40478008764dd682069"
+    },
+    {
+      "path": "public/assets/v03/step/L06_HEEL_PLATE.step",
+      "bytes": 78967,
+      "sha256": "1a3897171c802b08d745bc835c6545aaba0567a56cf3c8bb95208108becab95f"
+    },
+    {
+      "path": "public/assets/v03/step/L06_HINGE_LUG.step",
+      "bytes": 41044,
+      "sha256": "51021741bbd15ca401536fe1e32d274d9df557cae9e88c7ffeba99afc68ee8d0"
+    },
+    {
+      "path": "public/assets/v03/step/L06_TOE_HINGE.step",
+      "bytes": 14566,
+      "sha256": "1d4b76a7a2980535fa04e000c5d488471005bb14b8d16d8033a1fa55e28f1d3c"
+    },
+    {
+      "path": "public/assets/v03/step/L06_TREAD_HEEL.step",
+      "bytes": 82392,
+      "sha256": "c2435febf490707474dcd52cb48ef5d775c9c6c1d7f4e29df2c2d95f591ca31e"
+    },
+    {
+      "path": "public/assets/v03/step/L06_TREAD_TOE.step",
+      "bytes": 71801,
+      "sha256": "bdfb2b93cba8b6d0347648448a4c8cdcbbe604adea6bc3ca76856666cad9f5df"
+    },
+    {
+      "path": "public/assets/v03/step/P01_CASSETTE.step",
+      "bytes": 32143,
+      "sha256": "2a9e16d2e0eb2b45e77d93ea9bccbcfc870709ef07cf9d6c12f793ffae302429"
+    },
+    {
+      "path": "public/assets/v03/step/P01_LATCH.step",
+      "bytes": 31995,
+      "sha256": "fcd79249b87ab147ec0bbd8ee642225eddfa520e0b9df793ce31a43d1dd2ec5a"
+    },
+    {
+      "path": "public/assets/v03/step/P01_POWER_CARRIER.step",
+      "bytes": 70949,
+      "sha256": "99af8d1b16b928198dccbc6e5110632a1fd5bcd65ead76bcaa580e4b4ef43e3d"
+    },
+    {
+      "path": "public/assets/v03/step/P02_ECU.step",
+      "bytes": 31915,
+      "sha256": "1d245bb83f5c27cbe67626ca2b91f40f0e249b134601a05278da464dac9dc6c8"
+    },
+    {
+      "path": "public/assets/v03/step/P02_ESTOP.step",
+      "bytes": 8215,
+      "sha256": "88998559278110211f49788459fa82abfa06a6c5a94d9539574dbff630217e3b"
+    },
+    {
+      "path": "public/assets/v03/step/P03_STOWED_STRUT.step",
+      "bytes": 61522,
+      "sha256": "54c8beeb576357abdbcd819be0631458c6e86c73f7211c196dd7a3c591dea334"
+    },
+    {
+      "path": "public/assets/v03/step/P04_CONNECTOR.step",
+      "bytes": 14597,
+      "sha256": "aa3d5f57200cec7fde2a68014fcd7a698e53008674c1e9b993e700bdfb2ae02f"
+    },
+    {
+      "path": "public/assets/v03/step/P04_COOLING_FIN.step",
+      "bytes": 31907,
+      "sha256": "7180d1e9a55d4425ad9333b37a5ef04f61bd55a9bc16d04046b3dc1e6ccef207"
+    },
+    {
+      "path": "public/assets/v03/validation.json",
+      "bytes": 505,
+      "sha256": "ee50dad648af279801a306140ba09e8d5245aab9684acff421b9f8c6eb93dcee"
+    },
+    {
+      "path": "public/assets/v04/ATLAS_R04_ENGINEERING.zip",
+      "bytes": 5628252,
+      "sha256": "037704e8c288a8ee051390804aba630990374f273b17e48b2741f65a9b8daeb9"
+    },
+    {
+      "path": "public/assets/v04/assembly.json",
+      "bytes": 226116,
+      "sha256": "e11b628f92e5f8edd2b853deed2e073efd3752529ab357f7a4c9661055834372"
+    },
+    {
+      "path": "public/assets/v04/atlas-r04.glb",
+      "bytes": 19478956,
+      "sha256": "448065771534a077b80a39c1bafe0b3670f2bb1af4588c3e35a833ff4aba9f85"
+    },
+    {
+      "path": "public/assets/v04/displays.json",
+      "bytes": 1365,
+      "sha256": "182467cd8bdaccba8200bcce09048e006b49f985a834db9aa5e89a42c324762b"
+    },
+    {
+      "path": "public/assets/v04/drawings/A01_FLANGE.dxf",
+      "bytes": 16497,
+      "sha256": "401febbc2d8f69926e287b99568e6f18b4ebffa5a2412a27c27fef59c02d65fd"
+    },
+    {
+      "path": "public/assets/v04/drawings/A01_FLANGE.svg",
+      "bytes": 139774,
+      "sha256": "064c9066334828e0b6b7ffdc4090d69ef47b60e5f5b06c07dfef121e1686d736"
+    },
+    {
+      "path": "public/assets/v04/drawings/A03_FLANGE.dxf",
+      "bytes": 16496,
+      "sha256": "592a56f4b3ce595b8b24b7bbb9d1f8e587e736db7d2e7e335106d7920552e94f"
+    },
+    {
+      "path": "public/assets/v04/drawings/A03_FLANGE.svg",
+      "bytes": 135215,
+      "sha256": "869b588087fbf2110f6456aab1b55685d5589d69ba3378b07a97c37cfa6e8ea7"
+    },
+    {
+      "path": "public/assets/v04/drawings/A04_TOOL_FLANGE.dxf",
+      "bytes": 16020,
+      "sha256": "d30023149d47c6770c5e6d2cf2287eb6957d0f9bf95b8151ce642e84672ce9bf"
+    },
+    {
+      "path": "public/assets/v04/drawings/A04_TOOL_FLANGE.svg",
+      "bytes": 43702,
+      "sha256": "904eb5d20d3a4db0fd4ef8d3e7bf6760a0309d09a7236ab7d33a54a1a0f954e6"
+    },
+    {
+      "path": "public/assets/v04/drawings/F01_SCAPULAR_BRIDGE.dxf",
+      "bytes": 20303,
+      "sha256": "de4ac0c4912b555a13933cdf57fac58fb1956d4535b972b3ebe0fcfbfb580032"
+    },
+    {
+      "path": "public/assets/v04/drawings/F01_SCAPULAR_BRIDGE.svg",
+      "bytes": 31684,
+      "sha256": "8542451f86822aecb8b922feb6ca6e8b7f77899f75cf9dec8135e31969e1ab91"
+    },
+    {
+      "path": "public/assets/v04/drawings/L02_TIE_LUG.dxf",
+      "bytes": 16622,
+      "sha256": "8d972da40518efba10af72a612b545ee85c6977f6625d7380bdf7e4c5f18d55f"
+    },
+    {
+      "path": "public/assets/v04/drawings/L02_TIE_LUG.svg",
+      "bytes": 13867,
+      "sha256": "c86d9462d04be6092ecee3b6d0a3ab009816aa8a1ed8fffdc63b094d0dfd53ee"
+    },
+    {
+      "path": "public/assets/v04/drawings/L05_ANKLE_FORK.dxf",
+      "bytes": 17989,
+      "sha256": "260543cc88bbdb1d66c8e1652bfc715d0316f2ac14d88844088d7744b147dafb"
+    },
+    {
+      "path": "public/assets/v04/drawings/L05_ANKLE_FORK.svg",
+      "bytes": 22143,
+      "sha256": "d4c097916143eae3e1b48a246716c8e6490d2403b65ef8f8ce4e2de151fca9c5"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_FOREFOOT_PLATE.dxf",
+      "bytes": 17949,
+      "sha256": "a8155711a9da5a3ec3dad91a5669a0f41571aa1cf24997d67d15250fe2e4562b"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_FOREFOOT_PLATE.svg",
+      "bytes": 13610,
+      "sha256": "ef955117342533c409226adecf5e44965e180d92e9437ab30d628a81037365de"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_HEEL_PLATE.dxf",
+      "bytes": 17712,
+      "sha256": "c599feaca5b40c3744af272c2224e34b67fb7886867a8acbd7139b6ca3b68ac4"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_HEEL_PLATE.svg",
+      "bytes": 21744,
+      "sha256": "62c3d738ce0364ff6d16058eda8919c93db291dda109060deb7fdf2fba3efa73"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_HINGE_HEEL.dxf",
+      "bytes": 16586,
+      "sha256": "0ba1de1c6c544bcb1d5db29b9d0498b3f477da688e63454ffa06d527cd8c42f7"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_HINGE_HEEL.svg",
+      "bytes": 13940,
+      "sha256": "ab1828c7ebe4bd4df65970ea3c6aa3b2d7a966f74678fc344bbeb62d16b42620"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_HINGE_TOE.dxf",
+      "bytes": 16597,
+      "sha256": "348ec82782b1e2bdd344a284cceef25799e2e0a3772e70ae64d736c8a6766f38"
+    },
+    {
+      "path": "public/assets/v04/drawings/L06_HINGE_TOE.svg",
+      "bytes": 13966,
+      "sha256": "7b3c13443453c6f00199ee53fd6465fe24e00274e7851404d5e381bd56390de6"
+    },
+    {
+      "path": "public/assets/v04/drawings/P02_HMI_CHEST_BEZEL.dxf",
+      "bytes": 17813,
+      "sha256": "0269e9446316b123d7f38d69b9905d8be7fea15c71c50e5a9294762c93c013b8"
+    },
+    {
+      "path": "public/assets/v04/drawings/P02_HMI_CHEST_BEZEL.svg",
+      "bytes": 24221,
+      "sha256": "d3813712566b81cc897885127c6bbb76524540fa8aee489f8e28d78130a4ed34"
+    },
+    {
+      "path": "public/assets/v04/drawings/index.json",
+      "bytes": 2163,
+      "sha256": "b1c9ecc92f707b61930793e902ccce7148c8d0ce293fe96c84ee5c3451e8b934"
+    },
+    {
+      "path": "public/assets/v04/environment-m6/apple-tree.glb",
+      "bytes": 1281180,
+      "sha256": "69604d333f3b2e678f8ebfa81720b55ce54c0a35a6080a39281b89218ef5e613"
+    },
+    {
+      "path": "public/assets/v04/environment-m6/apple.glb",
+      "bytes": 12208,
+      "sha256": "377818364a1bf9344ba75d7e29665b909fc1d94d8202bfe0a38ff5e1e1d4e8f4"
+    },
+    {
+      "path": "public/assets/v04/environment-m6/basket.glb",
+      "bytes": 750628,
+      "sha256": "fec99be205002da4b7b532ed2895d452fcdfd2c16fca7cae5160990a692694fd"
+    },
+    {
+      "path": "public/assets/v04/environment-m6/crate.glb",
+      "bytes": 579104,
+      "sha256": "edc423cf12a5773259dd111a5b56234c3e3f7d49d4ada390058f28dd892d204b"
+    },
+    {
+      "path": "public/assets/v04/environment-m6/stairs-open-view.glb",
+      "bytes": 585744,
+      "sha256": "1e32ef6a7e07a27ee1de8a01c354912baa4e3235ba71e7b34231bb42fc7ad425"
+    },
+    {
+      "path": "public/assets/v04/environment-m6/stairs.glb",
+      "bytes": 755720,
+      "sha256": "e861e20a68763672b8f53be2b8acb699ace8a391ad8ef6e59896669a5c8cfb9f"
+    },
+    {
+      "path": "public/assets/v04/motion-m3/atlas-motion.glb",
+      "bytes": 20617032,
+      "sha256": "65517f6a8a07ca95b45939d04e891795effb4b662feabf54d54d8fa67e10341e"
+    },
+    {
+      "path": "public/assets/v04/motion-m3/rig.json",
+      "bytes": 4141,
+      "sha256": "600143a94b910a5152a6101c7a1b70fa6192f154dc5fd4679669fe66022d1421"
+    },
+    {
+      "path": "public/assets/v04/motion-m6/atlas-motion.glb",
+      "bytes": 20836044,
+      "sha256": "6eb91763aa65105da3484aeb9ef181c6ef66f8e05baa49eb3543c0a83ccdb806"
+    },
+    {
+      "path": "public/assets/v04/motion-m6/static-atlas-m6.glb",
+      "bytes": 21052536,
+      "sha256": "82bd7f763f01e87a3f66a8c1503b458d39536b5bd64c50dcc442e6b222e13120"
+    },
+    {
+      "path": "public/assets/v04/motion/atlas-motion.glb",
+      "bytes": 20573448,
+      "sha256": "8683ed42bfea8913eba77af7364cca948f9b8bb604e1b62d2888fcc7de26155b"
+    },
+    {
+      "path": "public/assets/v04/motion/rig.json",
+      "bytes": 2300,
+      "sha256": "0bcca6966615f19812c5cb8e274c485e639f15469129d6c11eb3f6905e9baf17"
+    },
+    {
+      "path": "public/assets/v04/step/A01_BEARING.step",
+      "bytes": 14631,
+      "sha256": "a9e57314dcf5339b91d0b76b76eff416fd701a664471d5b918ce7087a91ddacd"
+    },
+    {
+      "path": "public/assets/v04/step/A01_CAP.step",
+      "bytes": 37962,
+      "sha256": "80f03a937e0edef96bf7755bdabb594e243f47edb91e94d6e2a0b7bd843902c2"
+    },
+    {
+      "path": "public/assets/v04/step/A01_COVER.step",
+      "bytes": 14593,
+      "sha256": "49af1ecb298be188446d5e809eec718b7fdff1d84900a7e78c6f72056122a257"
+    },
+    {
+      "path": "public/assets/v04/step/A01_DELTOID_INLAY.step",
+      "bytes": 33568,
+      "sha256": "95cc1e00cda4fdba5da9fce82167886a17dc98a1a73df02f30d081c6957fc260"
+    },
+    {
+      "path": "public/assets/v04/step/A01_DELTOID_SHELL.step",
+      "bytes": 137653,
+      "sha256": "c0ee5a6a0afb26c81a80be49d064df382ae78e4d1c463e9aa1f454047df0c38b"
+    },
+    {
+      "path": "public/assets/v04/step/A01_FLANGE.step",
+      "bytes": 126734,
+      "sha256": "11247f9a9ff47e79e15f09d336f479c28c6b5cc674dfe16e587e4f941402cfee"
+    },
+    {
+      "path": "public/assets/v04/step/A01_HOUSING.step",
+      "bytes": 14605,
+      "sha256": "4eb9486ad4a7204090649f3e888c47bfccf11c38f044ffc963f0f8e71ef712e0"
+    },
+    {
+      "path": "public/assets/v04/step/A01_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "bbcd32d1f14e2e48947c3bb5b1d90170ad2441d0bf70f92ee262f2e9dbc05548"
+    },
+    {
+      "path": "public/assets/v04/step/A01_VENT_BLADE.step",
+      "bytes": 31921,
+      "sha256": "d6fa61ff3f78551921bd9c54f76923c5a9762ddac57a73740361c3ce1cf978c7"
+    },
+    {
+      "path": "public/assets/v04/step/A01_YAW_BASE.step",
+      "bytes": 126502,
+      "sha256": "65b666c9d31ba53ffb0dc9a2c838f46725e1f104191371ec1178059a3769cfa2"
+    },
+    {
+      "path": "public/assets/v04/step/A01_YOKE.step",
+      "bytes": 79835,
+      "sha256": "4d3a88387b5b9e0a740eabe0dbd9407f02c4101a740f166d4e8e2eddfdb68be3"
+    },
+    {
+      "path": "public/assets/v04/step/A02_ARM_INLAY.step",
+      "bytes": 41312,
+      "sha256": "3f66f0e4dea5f2d38fb948c675842de883db6bc24b0a06a4789151cb3caae02c"
+    },
+    {
+      "path": "public/assets/v04/step/A02_ARM_RAIL.step",
+      "bytes": 61474,
+      "sha256": "5a4bb0a7a611c42aee54c7ca14b630a5afb3fc8e8efdbb4137a6e2115f16b750"
+    },
+    {
+      "path": "public/assets/v04/step/A02_ARM_SHELL.step",
+      "bytes": 230802,
+      "sha256": "5e87fbfbc1cd2f0479937845ff9bc51f45fd993de61f23255e8f092ca1d97275"
+    },
+    {
+      "path": "public/assets/v04/step/A02_SERVICE_LATCH.step",
+      "bytes": 32035,
+      "sha256": "2e245a74918252ac0309aee36e28ac2e4652a8124d52f6afa84f927b04195354"
+    },
+    {
+      "path": "public/assets/v04/step/A03_BEARING.step",
+      "bytes": 14636,
+      "sha256": "d0c3820a7eba6866b58614e341684c8a93d46d628ac9c602e9e6f1b3a15b30ec"
+    },
+    {
+      "path": "public/assets/v04/step/A03_CAP.step",
+      "bytes": 37899,
+      "sha256": "91a468626d1c05d4869a27d4889f46ab03f1c5c96c995622ea483d5ae1adbfbf"
+    },
+    {
+      "path": "public/assets/v04/step/A03_COVER.step",
+      "bytes": 14609,
+      "sha256": "ed35a988150a2e560bf0da5e09104223590420458ba1cb64f8bc36fdd70335ed"
+    },
+    {
+      "path": "public/assets/v04/step/A03_FLANGE.step",
+      "bytes": 126722,
+      "sha256": "a5a733d66403dd4b1b125cbb69b9a5e5b3c229ce9b47b012599aee20023b46ce"
+    },
+    {
+      "path": "public/assets/v04/step/A03_HOUSING.step",
+      "bytes": 14614,
+      "sha256": "7d6674cecb98177232c4f4bd4d0166d0b0ea7590bce64572fe71d9ad5795b967"
+    },
+    {
+      "path": "public/assets/v04/step/A03_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "de20d9b8d28da8c49c17db7333044d62d0a7bc5941ccc7164357dd8ed111b43e"
+    },
+    {
+      "path": "public/assets/v04/step/A04_BEARING.step",
+      "bytes": 14619,
+      "sha256": "3f106cbd8a5dea85e1c1425b9d14ab2aa6ff78ad56983699e05be0b50b57654a"
+    },
+    {
+      "path": "public/assets/v04/step/A04_CAP.step",
+      "bytes": 37886,
+      "sha256": "2106843916126983e577b5816c0a7efc64addca27d0720174afae071d503b98e"
+    },
+    {
+      "path": "public/assets/v04/step/A04_CONTACT_PAD.step",
+      "bytes": 31911,
+      "sha256": "fcff2ccf27c571dd5ba0c1f17ca72005a6023339e58a102d672c735b48231d49"
+    },
+    {
+      "path": "public/assets/v04/step/A04_COVER.step",
+      "bytes": 14609,
+      "sha256": "e184cacb8a8a269309e1264b66dec60f5673fdb4fac7eb5626ed5eaeebb63feb"
+    },
+    {
+      "path": "public/assets/v04/step/A04_FLANGE.step",
+      "bytes": 126543,
+      "sha256": "87f629eeffdf86697c048309e1bc63451b081f545a439affff0505ed40d9ad18"
+    },
+    {
+      "path": "public/assets/v04/step/A04_FOREARM_RAIL.step",
+      "bytes": 61572,
+      "sha256": "f179b461f3f1f6d667482ced90c09ae1c4bdd575a0f9defa3ae3ca6cec39ce57"
+    },
+    {
+      "path": "public/assets/v04/step/A04_FOREARM_SHELL.step",
+      "bytes": 95384,
+      "sha256": "849e4e46e4c9a3daf37288efa8bf95a839812630a7f2bf724bd03136dbb92d63"
+    },
+    {
+      "path": "public/assets/v04/step/A04_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "4a7c9434fc9d86012229cd87c6d73d96422d64c61f26282963ddf6a2f18846e5"
+    },
+    {
+      "path": "public/assets/v04/step/A04_JAW.step",
+      "bytes": 54176,
+      "sha256": "8bf7dbcfbde6a00d6b1cf9a3b6a35a1e5d7ef950dae4d5301775b26a240e579b"
+    },
+    {
+      "path": "public/assets/v04/step/A04_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "25ccb8642e83e9ed1041a44eec6c8aaa2a3af17f00fba2a65eecb789da4d5ec9"
+    },
+    {
+      "path": "public/assets/v04/step/A04_PAD.step",
+      "bytes": 31839,
+      "sha256": "3bcf480bcf125b8a6da9e3b5bb7b2340126c5b899599f5a992ad3955954ec685"
+    },
+    {
+      "path": "public/assets/v04/step/A04_PALM.step",
+      "bytes": 45248,
+      "sha256": "dfe56aa04e1d52440239f5fbae84366caa28bcca6801abd1a7a911e8647c00f7"
+    },
+    {
+      "path": "public/assets/v04/step/A04_PARALLEL_JAW.step",
+      "bytes": 46222,
+      "sha256": "33b5891e030847e5ef148d506e0b46c509e8bce6ae5ed7ab2b056a084d3696d6"
+    },
+    {
+      "path": "public/assets/v04/step/A04_ROLL.step",
+      "bytes": 126602,
+      "sha256": "29a3f80868c26b450aca182e43469f7d2952ab8e2dc354c40f2055c58d85706b"
+    },
+    {
+      "path": "public/assets/v04/step/A04_TOOL_FLANGE.step",
+      "bytes": 41777,
+      "sha256": "b468bdfd06cc8f90b5ab2335be00f515591e322252f60a4418e111336c71e9cb"
+    },
+    {
+      "path": "public/assets/v04/step/F01_SCAPULAR_BRIDGE.step",
+      "bytes": 145946,
+      "sha256": "0a363025d17aaef27b2ceed84f54554053af691d7041373c6307b00d544424a9"
+    },
+    {
+      "path": "public/assets/v04/step/F02_DORSAL_RAIL.step",
+      "bytes": 61404,
+      "sha256": "64e347d6c34b03e7dadaf256c7d523026c2335e9e28e77052b2013b0d6127e1b"
+    },
+    {
+      "path": "public/assets/v04/step/F02_SLIDE_BLOCK.step",
+      "bytes": 45198,
+      "sha256": "e9022b7eeb6edf1968a048f08fd2741ece645eeed99f8df7ab8e2f7cb6216796"
+    },
+    {
+      "path": "public/assets/v04/step/F02_VERTEBRA_GUARD.step",
+      "bytes": 106698,
+      "sha256": "2387967d4057b47745c0e983698597975525f6b9438ec02f577c74ed89bee524"
+    },
+    {
+      "path": "public/assets/v04/step/F03_PELVIC_SADDLE.step",
+      "bytes": 40575,
+      "sha256": "eff9288e4af65ec4ba1bfe0928704ca653d4330c98c748a4415fd902c9ae2e00"
+    },
+    {
+      "path": "public/assets/v04/step/F03_SIDE_SHELL.step",
+      "bytes": 95034,
+      "sha256": "06236632351983e3f491a1f0b6a3fdf8c5132c380968d397fe3b0e7a513a5666"
+    },
+    {
+      "path": "public/assets/v04/step/H01_CHEST_PAD.step",
+      "bytes": 141042,
+      "sha256": "be2916ce148d9487d66b205c8ec7c9dc2d025e8c4234c4ac0d776f3652c56a57"
+    },
+    {
+      "path": "public/assets/v04/step/H01_CHEST_PLATE.step",
+      "bytes": 134546,
+      "sha256": "345d38e5c9a486624b0c5cd72ab0950fcfa67a523ed04770aeadfd586fcf5794"
+    },
+    {
+      "path": "public/assets/v04/step/H02_CUFF.step",
+      "bytes": 40685,
+      "sha256": "f5a62c95571bca03884d685f4364a08eaa1b3ff627c52026b8587ed4f9b8098c"
+    },
+    {
+      "path": "public/assets/v04/step/H03_BEARING.step",
+      "bytes": 14599,
+      "sha256": "119681f075b73b69ca12883c129587113d52eae0f1d7b990863c05e8e239e432"
+    },
+    {
+      "path": "public/assets/v04/step/H03_CAP.step",
+      "bytes": 38109,
+      "sha256": "3faf8ecd6249d58ff63b61c6941faf0729116bb19140eb9b89a9340f35ffb1f1"
+    },
+    {
+      "path": "public/assets/v04/step/H03_COVER.step",
+      "bytes": 14597,
+      "sha256": "806fe2dc6a5e465016c468588287540c498c120f6d3aef2d41e413332fe7c1f9"
+    },
+    {
+      "path": "public/assets/v04/step/H03_FLANGE.step",
+      "bytes": 126607,
+      "sha256": "9b5f479468b6bd38edfcddc4726b9e2f033745d6e9f44455b213200e380757a1"
+    },
+    {
+      "path": "public/assets/v04/step/H03_FOREARM_LINK.step",
+      "bytes": 62689,
+      "sha256": "949019fa7aa07d29cf0fdf16d4da28cd7e0badca79d5e7bb158111b113f06afc"
+    },
+    {
+      "path": "public/assets/v04/step/H03_GRIP.step",
+      "bytes": 32029,
+      "sha256": "ad27163e2d3aa03f02112976121f771accad77ba3efe5065aa36ae582f0c3dbf"
+    },
+    {
+      "path": "public/assets/v04/step/H03_GRIP_COLLAR.step",
+      "bytes": 31907,
+      "sha256": "da6c6a94ed8e5c4149db88c2f71f5aed3c64b30c0d63d9d24d072e763a990b8f"
+    },
+    {
+      "path": "public/assets/v04/step/H03_HMI_BRACKET.step",
+      "bytes": 45091,
+      "sha256": "9529e5a268dccf7451ce2742c1557f8e7edf86c377ed015e4e865977a38d3653"
+    },
+    {
+      "path": "public/assets/v04/step/H03_HOUSING.step",
+      "bytes": 14617,
+      "sha256": "6731049965441e8672e9129f6b42ff8e755c6c9e74bbfc72f9022edf0a6a9c98"
+    },
+    {
+      "path": "public/assets/v04/step/H03_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "65a84d4bd33e63c1e0ce9af2b1b5848ae4a38fe47263a41cc80e378cc831f9e7"
+    },
+    {
+      "path": "public/assets/v04/step/H03_MASTER_LINK.step",
+      "bytes": 62677,
+      "sha256": "03d428aa36ddfbe3b3c60b6a8c8896e76de5825315c2ac8b2d4a3f5380666422"
+    },
+    {
+      "path": "public/assets/v04/step/H03_PELVIC_MOUNT.step",
+      "bytes": 45245,
+      "sha256": "a5092bb1a22c9122f8efe37bfc6996bf030eac7ea65ecc039ce76d91dbdc2545"
+    },
+    {
+      "path": "public/assets/v04/step/L01_BEARING.step",
+      "bytes": 14621,
+      "sha256": "395165fd764943f9635f99b9b665abecd2d217136e5b5e62a7dbb7c9c4ad13bd"
+    },
+    {
+      "path": "public/assets/v04/step/L01_CAP.step",
+      "bytes": 37899,
+      "sha256": "a51137eb1c2dea5192ad3e4af1f92832345c0381d92bafbfcab43d44ee0e8bfd"
+    },
+    {
+      "path": "public/assets/v04/step/L01_COVER.step",
+      "bytes": 14607,
+      "sha256": "2c9c7c5b572ba4628c0dfc0afd8b788e8954c17c92b17d7109e632d411027432"
+    },
+    {
+      "path": "public/assets/v04/step/L01_FLANGE.step",
+      "bytes": 126558,
+      "sha256": "6ed80caf6acc646652a84fa1568cfdb96608db39216a7d450644e7e7c90d08c2"
+    },
+    {
+      "path": "public/assets/v04/step/L01_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "117d0c292be0bceaf147b15d80edcd64a4fb725d07776337348901d8ff9cfb34"
+    },
+    {
+      "path": "public/assets/v04/step/L01_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "98d12cdf1353a48a1e066e5c95c3d3a1f830f7c2a42b1652546d69b5ea19ccc8"
+    },
+    {
+      "path": "public/assets/v04/step/L02_COLOR_INSERT.step",
+      "bytes": 32742,
+      "sha256": "001bee002e89558cfedbc80ebae5459f401cb49602efa6c103388f501d0b9808"
+    },
+    {
+      "path": "public/assets/v04/step/L02_END_SOCKET.step",
+      "bytes": 61374,
+      "sha256": "9bcb018c28ed3da517797b985f18265708337508098b2b0d26226766751eccaf"
+    },
+    {
+      "path": "public/assets/v04/step/L02_THIGH_RAIL.step",
+      "bytes": 61522,
+      "sha256": "58bd2b3f1c3c4952cbf2fbae425510c7c7d5b28ea597e46af44af54388808f8f"
+    },
+    {
+      "path": "public/assets/v04/step/L02_THIGH_SHELL.step",
+      "bytes": 125332,
+      "sha256": "f9d54fb187e0bbac3294b93a305c32304439b3e9e148a86cf8b4b3e4b2320e05"
+    },
+    {
+      "path": "public/assets/v04/step/L02_TIE_LUG.step",
+      "bytes": 45224,
+      "sha256": "ad7e8fa270721be0a01208a859fb327aa3c6a065f06da02b66802aaafe0b68a0"
+    },
+    {
+      "path": "public/assets/v04/step/L03_BEARING.step",
+      "bytes": 14623,
+      "sha256": "f23cb7ce8f920337f35eedd52f7e4dca31c3f593f6cf0fa9d9d9fedac45c3f55"
+    },
+    {
+      "path": "public/assets/v04/step/L03_CAP.step",
+      "bytes": 37892,
+      "sha256": "d5bff9e669cac932d10bf8beef661b302d28ebce801d7887f8fcbc5ca740ba84"
+    },
+    {
+      "path": "public/assets/v04/step/L03_COVER.step",
+      "bytes": 14603,
+      "sha256": "dbf11caec65a6220b582c9e79de8bc6c4dd1e4199523e2c060a51b1a11ea971a"
+    },
+    {
+      "path": "public/assets/v04/step/L03_FLANGE.step",
+      "bytes": 126647,
+      "sha256": "c633a573e0a452d4320d8a987e655af4438b1c82586a728da40e458c31a5918a"
+    },
+    {
+      "path": "public/assets/v04/step/L03_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "f70c6a6fdc49ef6ec1ed2bfb17dd1799ad64faf0347866f9d07452929c86eb8f"
+    },
+    {
+      "path": "public/assets/v04/step/L03_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "d008fb2eeb115f75697b45475d3324c2cf36bc521f6786a6d80259cdcd0f5869"
+    },
+    {
+      "path": "public/assets/v04/step/L04_COLOR_INSERT.step",
+      "bytes": 37002,
+      "sha256": "41a092aaad2d06131987b8df4af9c5df481845064d7ce21075f75cba71ca5f93"
+    },
+    {
+      "path": "public/assets/v04/step/L04_END_SOCKET.step",
+      "bytes": 61374,
+      "sha256": "eab97c917207bf34476d18c9cd5647ba8fedb49fbb82f5771010b0f488df74f1"
+    },
+    {
+      "path": "public/assets/v04/step/L04_SERVICE_LATCH.step",
+      "bytes": 31957,
+      "sha256": "0ecccb8d41ae3db6c2e8967447b29411276f634701dabfacfe4145e6aad0f42a"
+    },
+    {
+      "path": "public/assets/v04/step/L04_SHANK_RAIL.step",
+      "bytes": 61494,
+      "sha256": "6ce3e549b72fbb16eb8ae813815df6492ff8405bebf6ef7f15fd401d67fe6f1b"
+    },
+    {
+      "path": "public/assets/v04/step/L04_SHANK_SHELL.step",
+      "bytes": 128312,
+      "sha256": "833c64db1df760128e8ad8c8fe8822b097258d2fb30be184ba2df81ce4a4f2fb"
+    },
+    {
+      "path": "public/assets/v04/step/L05_ANKLE_FORK.step",
+      "bytes": 78740,
+      "sha256": "a146bb47134fcfebff52e02a6ca3774038cde9b124088783e994d22788a01797"
+    },
+    {
+      "path": "public/assets/v04/step/L05_AXLE.step",
+      "bytes": 8205,
+      "sha256": "846421f09f84e61e4a7fe6f2da66a5b9863ea90c42a530efd4f546895e3bec60"
+    },
+    {
+      "path": "public/assets/v04/step/L05_AXLE_ADAPTER.step",
+      "bytes": 14602,
+      "sha256": "4a3da68baaf0108614bce2086ed52f00d1e30d05f3c40a8231c15f19adba8988"
+    },
+    {
+      "path": "public/assets/v04/step/L05_BEARING.step",
+      "bytes": 14623,
+      "sha256": "28ac1ac94d54ca576d5a5f2e7b093902c1fec1fafa7e967510c991b15ec98227"
+    },
+    {
+      "path": "public/assets/v04/step/L05_CAP.step",
+      "bytes": 37886,
+      "sha256": "254f524375d7ab2f9146af4630b421c361492429382169f4a842a1f30ef53316"
+    },
+    {
+      "path": "public/assets/v04/step/L05_COVER.step",
+      "bytes": 14599,
+      "sha256": "ac0eb2c694eeb5ff7a2017b73d1452289aa6325fe9bf731894a1b21cff445a59"
+    },
+    {
+      "path": "public/assets/v04/step/L05_FLANGE.step",
+      "bytes": 126748,
+      "sha256": "59c5a6b5613384bb25d31e5aa179984f4fa2f595c0fabe58171dc4ac4b650bd3"
+    },
+    {
+      "path": "public/assets/v04/step/L05_HOUSING.step",
+      "bytes": 14629,
+      "sha256": "9545a740a8104c3142eab3763c84abe9987a2d461e1431051eeae07c1bd7b537"
+    },
+    {
+      "path": "public/assets/v04/step/L05_M4_SOCKET.step",
+      "bytes": 37500,
+      "sha256": "3fbc919bd81d5271fbe58fbdfc8aaeb7ae00f9196b662779a505e26946ac1c3d"
+    },
+    {
+      "path": "public/assets/v04/step/L06_FOREFOOT_PLATE.step",
+      "bytes": 68847,
+      "sha256": "dd9f84e220a143389a0fe6af80c7d3ea95eb1fe283c188cb67e8b02eb8677fcd"
+    },
+    {
+      "path": "public/assets/v04/step/L06_HEEL_CUP.step",
+      "bytes": 40241,
+      "sha256": "7f5e10edb1dc006c001d7a41fc41b85fd4cefc0ed3e9ea53237f29057a71d9bc"
+    },
+    {
+      "path": "public/assets/v04/step/L06_HEEL_PLATE.step",
+      "bytes": 78967,
+      "sha256": "e959ca9a2580eb458e1ad19874a7c024d07ef8afa550ea4c303298ac63cfd330"
+    },
+    {
+      "path": "public/assets/v04/step/L06_HINGE_HEEL.step",
+      "bytes": 37120,
+      "sha256": "bd719ae21380fdc0a1c26528a49dda8c9b0eb192c383dd699cde0d26b8494060"
+    },
+    {
+      "path": "public/assets/v04/step/L06_HINGE_TOE.step",
+      "bytes": 36176,
+      "sha256": "922183c7088e7d728a0eb04752dcdcd2e4303c2efe67d78018bce1b2b4de9f88"
+    },
+    {
+      "path": "public/assets/v04/step/L06_PIN_RETAINER.step",
+      "bytes": 14600,
+      "sha256": "60d79bc8680ee3ac66d3be7ad2083db1c73253c01532ef8801adab733da7604d"
+    },
+    {
+      "path": "public/assets/v04/step/L06_TOE_PIN.step",
+      "bytes": 8198,
+      "sha256": "184ec4ff71c2e36763b5318e2d1121c72158fa75171bc3fc0b03674ea4338cf1"
+    },
+    {
+      "path": "public/assets/v04/step/L06_TREAD_HEEL.step",
+      "bytes": 82392,
+      "sha256": "7d95b1505a2ddb3984d1652ec203de6919b02bbead99b0e75910873705579558"
+    },
+    {
+      "path": "public/assets/v04/step/L06_TREAD_TOE.step",
+      "bytes": 71801,
+      "sha256": "703f63d7c1b965dd2d7ddea6e191d20896845b375e588034cb1b4e1d1de6a51e"
+    },
+    {
+      "path": "public/assets/v04/step/P01_CASSETTE.step",
+      "bytes": 32143,
+      "sha256": "650345e880ae0aab721a117a9c9b3f96d37476b732f27d58cf0969f988fe9da1"
+    },
+    {
+      "path": "public/assets/v04/step/P01_LATCH.step",
+      "bytes": 31995,
+      "sha256": "b9ee6da673234b3877b81541d51b719471d4a22060041213488f7f2cb4251644"
+    },
+    {
+      "path": "public/assets/v04/step/P01_POWER_CARRIER.step",
+      "bytes": 70949,
+      "sha256": "ba108038fbca2c6d28a7688be42e2742a967af1b19797a9edd7dd6655a961200"
+    },
+    {
+      "path": "public/assets/v04/step/P02_ECU.step",
+      "bytes": 31915,
+      "sha256": "07781334f3e42d03664e6a1b3593d99084c91b7f30af56e07a88efa5022b7a19"
+    },
+    {
+      "path": "public/assets/v04/step/P02_ESTOP.step",
+      "bytes": 8215,
+      "sha256": "da2cb2ed43e4d12347eeea6a1d2bad695ccb355b97f8a776ac49544b930abdb1"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_CHEST_BEZEL.step",
+      "bytes": 89141,
+      "sha256": "969470e429d6bde0366c013a5cee30e083a8c3c7ff09a42793c2fd0deba34211"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_CHEST_GLASS.step",
+      "bytes": 31991,
+      "sha256": "393aeabfa145b96cfdf1602fe43a3dfefbc5e7375731d0a194f81d2dcb8956bc"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_CHEST_HOUSING.step",
+      "bytes": 61975,
+      "sha256": "96e98aa33c03eaa5c5e71e5f51312a5596c198b7720c343907e03393d0465cfa"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_SERVICE_BEZEL.step",
+      "bytes": 89141,
+      "sha256": "f6315d56e2f16cc11d1b8e058b9eac8e4cea2e54669b43d2c8b53575826eda96"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_SERVICE_GLASS.step",
+      "bytes": 31991,
+      "sha256": "7e72a7d729493cb0097adbd2a71b4d864d443d98265125ecdfd62ba48471ed57"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_SERVICE_HOUSING.step",
+      "bytes": 61975,
+      "sha256": "35c0091c1154e22bc9534138d05daf59a6aacfa75bd1079199eb85d85ff6b812"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_WRIST_BEZEL.step",
+      "bytes": 89087,
+      "sha256": "4e9af141228517bf1ca6dbc00650603bfc233dac90ba9ece8ea10778d3e131ec"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_WRIST_GLASS.step",
+      "bytes": 31981,
+      "sha256": "30aed432c6667670054e801dbe98617d0e5947eda4c59634165c8da919d8ad69"
+    },
+    {
+      "path": "public/assets/v04/step/P02_HMI_WRIST_HOUSING.step",
+      "bytes": 61945,
+      "sha256": "ad02fc37f08cfb7125cc19364dc3848fc34cd223c65e06c3a7c05c95388953f2"
+    },
+    {
+      "path": "public/assets/v04/step/P03_STOWED_STRUT.step",
+      "bytes": 61522,
+      "sha256": "0724fbf9069426995fd2e1b07a108309914207d6e2c02b585439c46c9de1060a"
+    },
+    {
+      "path": "public/assets/v04/step/P04_CONNECTOR.step",
+      "bytes": 14597,
+      "sha256": "9b487c675a55e70aa24286efa0f82da60ab13340dbc4fc72150fcea1751ab18e"
+    },
+    {
+      "path": "public/assets/v04/step/P04_COOLING_FIN.step",
+      "bytes": 31907,
+      "sha256": "695f3ac1c845d9cb6307f1f5c169432b6a1f53ade0374a86214845f19a417d1d"
+    },
+    {
+      "path": "public/assets/v04/validation.json",
+      "bytes": 915,
+      "sha256": "0833c1f64086c0729a97b18242619235077e8c0eda5537f9a0b2654f571e8360"
+    },
+    {
+      "path": "public/assets/v04/video-m7/ATLAS_M7_50s_Intro.mp4",
+      "bytes": 11401453,
+      "sha256": "0401c0355ce2ea9fbff2ed259c14c55440c0c2f0b8b6cf59ecd4cb9816e5e1f3"
+    },
+    {
+      "path": "public/assets/v04/video-m7/EXO_Forge_Astra_Product_Tour_EP01.mp4",
+      "bytes": 9859689,
+      "sha256": "ec561833661aca8ff6326c774bc5e7f6f52ede1550d637156b6dfde641a61a4f"
+    },
+    {
+      "path": "public/assets/v04/video-m8/ATLAS_M8_50s_Intro.mp4",
+      "bytes": 11674456,
+      "sha256": "28dd6b554b8ac9b4e4e4dff1c329004ba1d527751f484ae0fc970171ef712bdb"
+    },
+    {
+      "path": "public/assets/v04/video-m8/EXO_Forge_Astra_Product_Tour_EP01_M8.mp4",
+      "bytes": 12294263,
+      "sha256": "bbcc5b9808305fd211eb29649475d8e8675840eedb4bb8559352a7662e68d0c1"
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 712,
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    }
+  ]
+}
