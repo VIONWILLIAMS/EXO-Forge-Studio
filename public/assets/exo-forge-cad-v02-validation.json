@@ -1,0 +1,1589 @@
+{
+  "schemaVersion": 1,
+  "revision": "CAD-V0.2",
+  "cadKernel": "CadQuery 2.6.1 / OpenCascade",
+  "units": "mm",
+  "moduleFamilies": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "F01",
+    "F02",
+    "F03",
+    "H01",
+    "H02",
+    "H03",
+    "L01",
+    "L02",
+    "L03",
+    "L04",
+    "L05",
+    "L06",
+    "P01",
+    "P02",
+    "P03",
+    "P04"
+  ],
+  "requiredModuleFamilies": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "F01",
+    "F02",
+    "F03",
+    "H01",
+    "H02",
+    "H03",
+    "L01",
+    "L02",
+    "L03",
+    "L04",
+    "L05",
+    "L06",
+    "P01",
+    "P02",
+    "P03",
+    "P04"
+  ],
+  "missingModuleFamilies": [],
+  "cad": [
+    {
+      "part": "H01_HARNESS_BACKPLATE",
+      "family": "H01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 13068.1,
+      "boundsMm": [
+        58.002,
+        78.002,
+        3.202
+      ]
+    },
+    {
+      "part": "H02_THIGH_CUFF_L",
+      "family": "H02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 967.22,
+      "boundsMm": [
+        23.003,
+        22.462,
+        7.007
+      ]
+    },
+    {
+      "part": "H03_MASTER_ARM_L",
+      "family": "H03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 1760.54,
+      "boundsMm": [
+        48.0,
+        8.002,
+        5.002
+      ]
+    },
+    {
+      "part": "H02_THIGH_CUFF_R",
+      "family": "H02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 967.22,
+      "boundsMm": [
+        23.003,
+        22.462,
+        7.007
+      ]
+    },
+    {
+      "part": "H03_MASTER_ARM_R",
+      "family": "H03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 1760.54,
+      "boundsMm": [
+        48.0,
+        8.002,
+        5.002
+      ]
+    },
+    {
+      "part": "F01_SHOULDER_YOKE",
+      "family": "F01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 18266.54,
+      "boundsMm": [
+        152.001,
+        32.001,
+        8.001
+      ]
+    },
+    {
+      "part": "F02_SPINE_RAIL",
+      "family": "F02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 10718.24,
+      "boundsMm": [
+        100.0,
+        14.004,
+        8.004
+      ]
+    },
+    {
+      "part": "F03_PELVIS_YOKE",
+      "family": "F03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 14042.54,
+      "boundsMm": [
+        104.001,
+        34.001,
+        8.001
+      ]
+    },
+    {
+      "part": "L01_HIP_HUB_L",
+      "family": "L01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 3989.79,
+      "boundsMm": [
+        24.007,
+        24.0,
+        9.007
+      ]
+    },
+    {
+      "part": "L02_THIGH_LINK_L",
+      "family": "L02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 8006.46,
+      "boundsMm": [
+        86.0,
+        14.004,
+        7.004
+      ]
+    },
+    {
+      "part": "L03_KNEE_HUB_L",
+      "family": "L03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 3339.48,
+      "boundsMm": [
+        22.007,
+        22.0,
+        9.007
+      ]
+    },
+    {
+      "part": "L04_SHIN_LINK_L",
+      "family": "L04",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 7810.46,
+      "boundsMm": [
+        84.0,
+        14.004,
+        7.004
+      ]
+    },
+    {
+      "part": "L05_ANKLE_HUB_L",
+      "family": "L05",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 2195.6,
+      "boundsMm": [
+        19.006,
+        19.0,
+        8.006
+      ]
+    },
+    {
+      "part": "L06_FOOT_PLATE_L",
+      "family": "L06",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 13561.22,
+      "boundsMm": [
+        72.002,
+        36.002,
+        6.201
+      ]
+    },
+    {
+      "part": "A01_SHOULDER_HUB_L",
+      "family": "A01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 5218.5,
+      "boundsMm": [
+        26.008,
+        26.0,
+        10.008
+      ]
+    },
+    {
+      "part": "A02_UPPER_ARM_L",
+      "family": "A02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 10268.45,
+      "boundsMm": [
+        90.0,
+        15.005,
+        8.005
+      ]
+    },
+    {
+      "part": "A03_ELBOW_HUB_L",
+      "family": "A03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 4063.96,
+      "boundsMm": [
+        23.007,
+        23.0,
+        10.007
+      ]
+    },
+    {
+      "part": "A04_FOREARM_GRIPPER_L",
+      "family": "A04",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 9344.53,
+      "boundsMm": [
+        105.825,
+        16.251,
+        7.004
+      ]
+    },
+    {
+      "part": "L01_HIP_HUB_R",
+      "family": "L01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 3989.79,
+      "boundsMm": [
+        24.007,
+        24.0,
+        9.007
+      ]
+    },
+    {
+      "part": "L02_THIGH_LINK_R",
+      "family": "L02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 8006.46,
+      "boundsMm": [
+        86.0,
+        14.004,
+        7.004
+      ]
+    },
+    {
+      "part": "L03_KNEE_HUB_R",
+      "family": "L03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 3339.48,
+      "boundsMm": [
+        22.007,
+        22.0,
+        9.007
+      ]
+    },
+    {
+      "part": "L04_SHIN_LINK_R",
+      "family": "L04",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 7810.46,
+      "boundsMm": [
+        84.0,
+        14.004,
+        7.004
+      ]
+    },
+    {
+      "part": "L05_ANKLE_HUB_R",
+      "family": "L05",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 2195.6,
+      "boundsMm": [
+        19.006,
+        19.0,
+        8.006
+      ]
+    },
+    {
+      "part": "L06_FOOT_PLATE_R",
+      "family": "L06",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 13561.22,
+      "boundsMm": [
+        72.002,
+        36.002,
+        6.201
+      ]
+    },
+    {
+      "part": "A01_SHOULDER_HUB_R",
+      "family": "A01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 5218.5,
+      "boundsMm": [
+        26.008,
+        26.0,
+        10.008
+      ]
+    },
+    {
+      "part": "A02_UPPER_ARM_R",
+      "family": "A02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 10268.45,
+      "boundsMm": [
+        90.0,
+        15.005,
+        8.005
+      ]
+    },
+    {
+      "part": "A03_ELBOW_HUB_R",
+      "family": "A03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 4063.96,
+      "boundsMm": [
+        23.007,
+        23.0,
+        10.007
+      ]
+    },
+    {
+      "part": "A04_FOREARM_GRIPPER_R",
+      "family": "A04",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 9344.53,
+      "boundsMm": [
+        105.825,
+        16.251,
+        7.004
+      ]
+    },
+    {
+      "part": "P01_POWER_BODY",
+      "family": "P01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 33234.33,
+      "boundsMm": [
+        62.001,
+        32.001,
+        74.001
+      ]
+    },
+    {
+      "part": "P01_POWER_LID",
+      "family": "P01",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 3558.95,
+      "boundsMm": [
+        59.121,
+        25.121,
+        2.401
+      ]
+    },
+    {
+      "part": "P02_CONTROL_CORE",
+      "family": "P02",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 8451.85,
+      "boundsMm": [
+        36.001,
+        26.001,
+        28.001
+      ]
+    },
+    {
+      "part": "P03_OUTRIGGER_L",
+      "family": "P03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 19087.9,
+      "boundsMm": [
+        201.488,
+        22.801,
+        7.004
+      ]
+    },
+    {
+      "part": "P03_OUTRIGGER_R",
+      "family": "P03",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 19087.9,
+      "boundsMm": [
+        201.488,
+        22.801,
+        7.004
+      ]
+    },
+    {
+      "part": "P04_SERVICE_CLIP",
+      "family": "P04",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 396.63,
+      "boundsMm": [
+        13.004,
+        12.401,
+        6.004
+      ]
+    },
+    {
+      "part": "FIT_TEST_PIN",
+      "family": "TEST",
+      "solidCount": 1,
+      "validBRep": true,
+      "volumeMm3": 2180.3,
+      "boundsMm": [
+        42.001,
+        18.001,
+        3.001
+      ]
+    }
+  ],
+  "stl": [
+    {
+      "part": "H01_HARNESS_BACKPLATE",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 13068.13,
+      "extentsMm": [
+        58.0,
+        78.0,
+        3.2
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 5160
+    },
+    {
+      "part": "H02_THIGH_CUFF_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 966.8,
+      "extentsMm": [
+        22.996,
+        22.454,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 900
+    },
+    {
+      "part": "H03_MASTER_ARM_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 1760.47,
+      "extentsMm": [
+        47.998,
+        8.0,
+        5.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "H02_THIGH_CUFF_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 966.8,
+      "extentsMm": [
+        22.996,
+        22.454,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 900
+    },
+    {
+      "part": "H03_MASTER_ARM_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 1760.47,
+      "extentsMm": [
+        47.998,
+        8.0,
+        5.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "F01_SHOULDER_YOKE",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 18266.57,
+      "extentsMm": [
+        152.0,
+        32.0,
+        8.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2316
+    },
+    {
+      "part": "F02_SPINE_RAIL",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 10717.79,
+      "extentsMm": [
+        99.996,
+        14.0,
+        8.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "F03_PELVIS_YOKE",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 14042.57,
+      "extentsMm": [
+        104.0,
+        34.0,
+        8.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2316
+    },
+    {
+      "part": "L01_HIP_HUB_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 3988.14,
+      "extentsMm": [
+        24.0,
+        23.993,
+        9.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "L02_THIGH_LINK_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 8006.06,
+      "extentsMm": [
+        85.996,
+        14.0,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "L03_KNEE_HUB_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 3338.1,
+      "extentsMm": [
+        22.0,
+        21.993,
+        9.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "L04_SHIN_LINK_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 7810.06,
+      "extentsMm": [
+        83.996,
+        14.0,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "L05_ANKLE_HUB_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 2194.69,
+      "extentsMm": [
+        19.0,
+        18.994,
+        8.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "L06_FOOT_PLATE_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 13561.19,
+      "extentsMm": [
+        72.0,
+        36.0,
+        6.2
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 3628
+    },
+    {
+      "part": "A01_SHOULDER_HUB_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 5216.34,
+      "extentsMm": [
+        26.0,
+        25.992,
+        10.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "A02_UPPER_ARM_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 10267.92,
+      "extentsMm": [
+        89.995,
+        15.0,
+        8.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "A03_ELBOW_HUB_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 4062.28,
+      "extentsMm": [
+        23.0,
+        22.993,
+        10.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "A04_FOREARM_GRIPPER_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 9344.35,
+      "extentsMm": [
+        105.823,
+        16.25,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2396
+    },
+    {
+      "part": "L01_HIP_HUB_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 3988.14,
+      "extentsMm": [
+        24.0,
+        23.993,
+        9.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "L02_THIGH_LINK_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 8006.06,
+      "extentsMm": [
+        85.996,
+        14.0,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "L03_KNEE_HUB_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 3338.1,
+      "extentsMm": [
+        22.0,
+        21.993,
+        9.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "L04_SHIN_LINK_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 7810.06,
+      "extentsMm": [
+        83.996,
+        14.0,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "L05_ANKLE_HUB_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 2194.69,
+      "extentsMm": [
+        19.0,
+        18.994,
+        8.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "L06_FOOT_PLATE_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 13561.19,
+      "extentsMm": [
+        72.0,
+        36.0,
+        6.2
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 3628
+    },
+    {
+      "part": "A01_SHOULDER_HUB_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 5216.34,
+      "extentsMm": [
+        26.0,
+        25.992,
+        10.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "A02_UPPER_ARM_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 10267.92,
+      "extentsMm": [
+        89.995,
+        15.0,
+        8.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2028
+    },
+    {
+      "part": "A03_ELBOW_HUB_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 4062.28,
+      "extentsMm": [
+        23.0,
+        22.993,
+        10.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1512
+    },
+    {
+      "part": "A04_FOREARM_GRIPPER_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 9344.35,
+      "extentsMm": [
+        105.823,
+        16.25,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2396
+    },
+    {
+      "part": "P01_POWER_BODY",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 33233.79,
+      "extentsMm": [
+        62.0,
+        32.0,
+        74.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1084
+    },
+    {
+      "part": "P01_POWER_LID",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 3558.94,
+      "extentsMm": [
+        59.12,
+        25.12,
+        2.4
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 524
+    },
+    {
+      "part": "P02_CONTROL_CORE",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 8451.65,
+      "extentsMm": [
+        36.0,
+        26.0,
+        28.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1084
+    },
+    {
+      "part": "P03_OUTRIGGER_L",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 19087.72,
+      "extentsMm": [
+        201.485,
+        22.8,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1676
+    },
+    {
+      "part": "P03_OUTRIGGER_R",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 19087.72,
+      "extentsMm": [
+        201.485,
+        22.8,
+        7.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 1676
+    },
+    {
+      "part": "P04_SERVICE_CLIP",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 396.44,
+      "extentsMm": [
+        13.0,
+        12.397,
+        6.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 828
+    },
+    {
+      "part": "FIT_TEST_PIN",
+      "watertight": true,
+      "windingConsistent": true,
+      "positiveVolume": true,
+      "volumeMm3": 2180.33,
+      "extentsMm": [
+        42.0,
+        18.0,
+        3.0
+      ],
+      "fitsBuildVolumeAfterOrientation": true,
+      "triangles": 2804
+    }
+  ],
+  "printPlates": [
+    {
+      "plate": "PLATE_01_CORE.3mf",
+      "instances": 7,
+      "geometryCount": 7,
+      "extentsMm": [
+        207.996,
+        182.0,
+        74.0
+      ],
+      "fitsBuildVolume": true,
+      "maxPartHeightMm": 74.0,
+      "placements": [
+        {
+          "part": "F01_SHOULDER_YOKE",
+          "originMm": [
+            5.0,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            152.0,
+            32.0,
+            8.0
+          ]
+        },
+        {
+          "part": "F03_PELVIS_YOKE",
+          "originMm": [
+            5.0,
+            41.0,
+            0.0
+          ],
+          "extentsMm": [
+            104.0,
+            34.0,
+            8.0
+          ]
+        },
+        {
+          "part": "F02_SPINE_RAIL",
+          "originMm": [
+            113.0,
+            41.0,
+            0.0
+          ],
+          "extentsMm": [
+            99.996,
+            14.0,
+            8.0
+          ]
+        },
+        {
+          "part": "H01_HARNESS_BACKPLATE",
+          "originMm": [
+            5.0,
+            79.0,
+            0.0
+          ],
+          "extentsMm": [
+            58.0,
+            78.0,
+            3.2
+          ]
+        },
+        {
+          "part": "P01_POWER_BODY",
+          "originMm": [
+            67.0,
+            79.0,
+            0.0
+          ],
+          "extentsMm": [
+            62.0,
+            32.0,
+            74.0
+          ]
+        },
+        {
+          "part": "P01_POWER_LID",
+          "originMm": [
+            133.0,
+            79.0,
+            0.0
+          ],
+          "extentsMm": [
+            59.12,
+            25.12,
+            2.4
+          ]
+        },
+        {
+          "part": "P02_CONTROL_CORE",
+          "originMm": [
+            5.0,
+            161.0,
+            0.0
+          ],
+          "extentsMm": [
+            36.0,
+            26.0,
+            28.0
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "PLATE_02_LEFT.3mf",
+      "instances": 13,
+      "geometryCount": 13,
+      "extentsMm": [
+        208.998,
+        127.504,
+        10.0
+      ],
+      "fitsBuildVolume": true,
+      "maxPartHeightMm": 10.0,
+      "placements": [
+        {
+          "part": "P03_OUTRIGGER_L",
+          "originMm": [
+            5.0,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            201.485,
+            22.8,
+            7.0
+          ]
+        },
+        {
+          "part": "A04_FOREARM_GRIPPER_L",
+          "originMm": [
+            5.0,
+            31.8,
+            0.0
+          ],
+          "extentsMm": [
+            105.823,
+            16.25,
+            7.0
+          ]
+        },
+        {
+          "part": "A02_UPPER_ARM_L",
+          "originMm": [
+            114.823,
+            31.8,
+            0.0
+          ],
+          "extentsMm": [
+            89.995,
+            15.0,
+            8.0
+          ]
+        },
+        {
+          "part": "L02_THIGH_LINK_L",
+          "originMm": [
+            5.0,
+            52.05,
+            0.0
+          ],
+          "extentsMm": [
+            85.996,
+            14.0,
+            7.0
+          ]
+        },
+        {
+          "part": "L04_SHIN_LINK_L",
+          "originMm": [
+            94.996,
+            52.05,
+            0.0
+          ],
+          "extentsMm": [
+            83.996,
+            14.0,
+            7.0
+          ]
+        },
+        {
+          "part": "L06_FOOT_PLATE_L",
+          "originMm": [
+            5.0,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            72.0,
+            36.0,
+            6.2
+          ]
+        },
+        {
+          "part": "H03_MASTER_ARM_L",
+          "originMm": [
+            81.0,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            47.998,
+            8.0,
+            5.0
+          ]
+        },
+        {
+          "part": "A01_SHOULDER_HUB_L",
+          "originMm": [
+            132.998,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            26.0,
+            25.992,
+            10.0
+          ]
+        },
+        {
+          "part": "L01_HIP_HUB_L",
+          "originMm": [
+            162.998,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            24.0,
+            23.993,
+            9.0
+          ]
+        },
+        {
+          "part": "A03_ELBOW_HUB_L",
+          "originMm": [
+            190.998,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            23.0,
+            22.993,
+            10.0
+          ]
+        },
+        {
+          "part": "H02_THIGH_CUFF_L",
+          "originMm": [
+            5.0,
+            110.05,
+            0.0
+          ],
+          "extentsMm": [
+            22.996,
+            22.454,
+            7.0
+          ]
+        },
+        {
+          "part": "L03_KNEE_HUB_L",
+          "originMm": [
+            31.996,
+            110.05,
+            0.0
+          ],
+          "extentsMm": [
+            22.0,
+            21.993,
+            9.0
+          ]
+        },
+        {
+          "part": "L05_ANKLE_HUB_L",
+          "originMm": [
+            57.996,
+            110.05,
+            0.0
+          ],
+          "extentsMm": [
+            19.0,
+            18.994,
+            8.0
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "PLATE_03_RIGHT.3mf",
+      "instances": 13,
+      "geometryCount": 13,
+      "extentsMm": [
+        208.998,
+        127.504,
+        10.0
+      ],
+      "fitsBuildVolume": true,
+      "maxPartHeightMm": 10.0,
+      "placements": [
+        {
+          "part": "P03_OUTRIGGER_R",
+          "originMm": [
+            5.0,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            201.485,
+            22.8,
+            7.0
+          ]
+        },
+        {
+          "part": "A04_FOREARM_GRIPPER_R",
+          "originMm": [
+            5.0,
+            31.8,
+            0.0
+          ],
+          "extentsMm": [
+            105.823,
+            16.25,
+            7.0
+          ]
+        },
+        {
+          "part": "A02_UPPER_ARM_R",
+          "originMm": [
+            114.823,
+            31.8,
+            0.0
+          ],
+          "extentsMm": [
+            89.995,
+            15.0,
+            8.0
+          ]
+        },
+        {
+          "part": "L02_THIGH_LINK_R",
+          "originMm": [
+            5.0,
+            52.05,
+            0.0
+          ],
+          "extentsMm": [
+            85.996,
+            14.0,
+            7.0
+          ]
+        },
+        {
+          "part": "L04_SHIN_LINK_R",
+          "originMm": [
+            94.996,
+            52.05,
+            0.0
+          ],
+          "extentsMm": [
+            83.996,
+            14.0,
+            7.0
+          ]
+        },
+        {
+          "part": "L06_FOOT_PLATE_R",
+          "originMm": [
+            5.0,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            72.0,
+            36.0,
+            6.2
+          ]
+        },
+        {
+          "part": "H03_MASTER_ARM_R",
+          "originMm": [
+            81.0,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            47.998,
+            8.0,
+            5.0
+          ]
+        },
+        {
+          "part": "A01_SHOULDER_HUB_R",
+          "originMm": [
+            132.998,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            26.0,
+            25.992,
+            10.0
+          ]
+        },
+        {
+          "part": "L01_HIP_HUB_R",
+          "originMm": [
+            162.998,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            24.0,
+            23.993,
+            9.0
+          ]
+        },
+        {
+          "part": "A03_ELBOW_HUB_R",
+          "originMm": [
+            190.998,
+            70.05,
+            0.0
+          ],
+          "extentsMm": [
+            23.0,
+            22.993,
+            10.0
+          ]
+        },
+        {
+          "part": "H02_THIGH_CUFF_R",
+          "originMm": [
+            5.0,
+            110.05,
+            0.0
+          ],
+          "extentsMm": [
+            22.996,
+            22.454,
+            7.0
+          ]
+        },
+        {
+          "part": "L03_KNEE_HUB_R",
+          "originMm": [
+            31.996,
+            110.05,
+            0.0
+          ],
+          "extentsMm": [
+            22.0,
+            21.993,
+            9.0
+          ]
+        },
+        {
+          "part": "L05_ANKLE_HUB_R",
+          "originMm": [
+            57.996,
+            110.05,
+            0.0
+          ],
+          "extentsMm": [
+            19.0,
+            18.994,
+            8.0
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "PLATE_04_FIT_AND_CLIPS.3mf",
+      "instances": 9,
+      "geometryCount": 9,
+      "extentsMm": [
+        177.998,
+        18.0,
+        6.0
+      ],
+      "fitsBuildVolume": true,
+      "maxPartHeightMm": 6.0,
+      "placements": [
+        {
+          "part": "FIT_TEST_PIN",
+          "originMm": [
+            5.0,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            42.0,
+            18.0,
+            3.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_01",
+          "originMm": [
+            51.0,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_02",
+          "originMm": [
+            68.0,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_03",
+          "originMm": [
+            85.0,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_04",
+          "originMm": [
+            101.999,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_05",
+          "originMm": [
+            118.999,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_06",
+          "originMm": [
+            135.999,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_07",
+          "originMm": [
+            152.999,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        },
+        {
+          "part": "P04_SERVICE_CLIP_08",
+          "originMm": [
+            169.999,
+            5.0,
+            0.0
+          ],
+          "extentsMm": [
+            13.0,
+            12.397,
+            6.0
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "partFiles": 35,
+    "validBRep": 35,
+    "watertightStl": 35,
+    "positiveVolumeStl": 35,
+    "fitsBuildVolume": 35,
+    "printPlates": 4,
+    "validPrintPlates": 4
+  },
+  "pass": true,
+  "engineeringBoundary": {
+    "loadBearing": false,
+    "wearable": false,
+    "humanTesting": false,
+    "statement": "可打印装配与运动关系验证件，不得用于真人穿戴、承重、救援或施工。"
+  },
+  "printPack": {
+    "path": "EXO_FORGE_CAD_V02_PRINT_PACK.zip",
+    "bytes": 1421461
+  }
+}

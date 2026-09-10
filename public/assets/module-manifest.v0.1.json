@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "units": "m",
+  "families": [
+    {"id":"H01","name":"胸背承托接口","glbNodes":["H01_HARNESS"],"parentId":"F02","side":"C","connectionInterfaces":["IF_HARNESS_SPINE"],"localAxis":[0,1,0],"parameterRange":{"chestCircumferenceMm":[820,1180]},"safetyLabels":["BODY_CONTACT","QUICK_RELEASE"]},
+    {"id":"H02","name":"腿部承托绑带","glbNodes":["H02_L","H02_R"],"parentId":"L02","side":"B","connectionInterfaces":["IF_L02_H02_L","IF_L02_H02_R"],"localAxis":[0,1,0],"parameterRange":{"strapMm":[420,720]},"safetyLabels":["BODY_CONTACT","PINCH_GUARD"]},
+    {"id":"H03","name":"内侧操纵臂","glbNodes":["H03_L","H03_R"],"parentId":"F01","side":"B","connectionInterfaces":["IF_F01_H03_L","IF_F01_H03_R"],"localAxis":[0,0,1],"parameterRange":{"reachMm":[280,460]},"safetyLabels":["LOW_FORCE_MASTER","E_STOP_REACH"]},
+    {"id":"F01","name":"肩部主承力框","glbNodes":["F01_SHOULDER_FRAME"],"parentId":null,"side":"C","connectionInterfaces":["IF_ARM_L","IF_ARM_R","IF_SPINE"],"localAxis":[1,0,0],"parameterRange":{"shoulderFrameMm":[680,840]},"safetyLabels":["STRUCTURAL_PATH","LIFT_POINT"]},
+    {"id":"F02","name":"伸缩脊柱承力梁","glbNodes":["F02_SPINE_RAIL","F02_SPINE_SLIDER"],"parentId":"F01","side":"C","connectionInterfaces":["IF_SHOULDER","IF_PELVIS"],"localAxis":[0,1,0],"parameterRange":{"torsoLengthMm":[420,610]},"safetyLabels":["TELESCOPIC","PINCH_GUARD"]},
+    {"id":"F03","name":"骨盆闭环框架","glbNodes":["F03_PELVIS_RING"],"parentId":"F02","side":"C","connectionInterfaces":["IF_HIP_L","IF_HIP_R","IF_OUTRIGGER"],"localAxis":[1,0,0],"parameterRange":{"pelvisRingMm":[460,600]},"safetyLabels":["STRUCTURAL_PATH","BODY_CLEARANCE"]},
+    {"id":"L01","name":"三轴髋关节","glbNodes":["L01_L","L01_R"],"parentId":"F03","side":"B","connectionInterfaces":["IF_F03_L01_L","IF_F03_L01_R"],"localAxis":[1,0,0],"parameterRange":{"offsetMm":[180,310]},"jointRangeDeg":[-30,100],"safetyLabels":["ACTIVE_JOINT","MECHANICAL_STOP"]},
+    {"id":"L02","name":"大腿伸缩承力段","glbNodes":["L02_L","L02_R"],"parentId":"L01","side":"B","connectionInterfaces":["IF_L01_L02_L","IF_L01_L02_R"],"localAxis":[0,1,0],"parameterRange":{"lengthMm":[360,520]},"safetyLabels":["TELESCOPIC"]},
+    {"id":"L03","name":"单轴膝关节","glbNodes":["L03_L","L03_R"],"parentId":"L02","side":"B","connectionInterfaces":["IF_L02_L03_L","IF_L02_L03_R"],"localAxis":[1,0,0],"parameterRange":{},"jointRangeDeg":[0,120],"safetyLabels":["ACTIVE_JOINT","MECHANICAL_STOP"]},
+    {"id":"L04","name":"小腿伸缩承力段","glbNodes":["L04_L","L04_R"],"parentId":"L03","side":"B","connectionInterfaces":["IF_L03_L04_L","IF_L03_L04_R"],"localAxis":[0,1,0],"parameterRange":{"lengthMm":[340,500]},"safetyLabels":["TELESCOPIC"]},
+    {"id":"L05","name":"双轴踝关节","glbNodes":["L05_L","L05_R"],"parentId":"L04","side":"B","connectionInterfaces":["IF_L04_L05_L","IF_L04_L05_R"],"localAxis":[1,0,0],"parameterRange":{},"jointRangeDeg":[-25,25],"safetyLabels":["ACTIVE_JOINT","MECHANICAL_STOP"]},
+    {"id":"L06","name":"接地脚板","glbNodes":["L06_L","L06_R"],"parentId":"L05","side":"B","connectionInterfaces":["IF_L05_L06_L","IF_L05_L06_R"],"localAxis":[0,0,1],"parameterRange":{"lengthMm":[320,400],"widthMm":[150,210]},"safetyLabels":["GROUND_CONTACT","NON_SLIP"]},
+    {"id":"A01","name":"肩部三轴动力座","glbNodes":["A01_L","A01_R"],"parentId":"F01","side":"B","connectionInterfaces":["IF_F01_A01_L","IF_F01_A01_R"],"localAxis":[1,0,0],"parameterRange":{},"jointRangeDeg":[-90,120],"safetyLabels":["ACTIVE_JOINT","BRAKE"]},
+    {"id":"A02","name":"上臂伸缩模组","glbNodes":["A02_L","A02_R"],"parentId":"A01","side":"B","connectionInterfaces":["IF_A01_A02_L","IF_A01_A02_R"],"localAxis":[0,1,0],"parameterRange":{"lengthMm":[380,560]},"safetyLabels":["TELESCOPIC","CABLE_ROUTE"]},
+    {"id":"A03","name":"肘部双轴关节","glbNodes":["A03_L","A03_R"],"parentId":"A02","side":"B","connectionInterfaces":["IF_A02_A03_L","IF_A02_A03_R"],"localAxis":[1,0,0],"parameterRange":{},"jointRangeDeg":[0,145],"safetyLabels":["ACTIVE_JOINT","BRAKE"]},
+    {"id":"A04","name":"腕部与末端快接","glbNodes":["A04_L","A04_R"],"parentId":"A03","side":"B","connectionInterfaces":["IF_A03_A04_L","IF_A03_A04_R"],"localAxis":[0,0,1],"parameterRange":{"reachMm":[800,1150]},"safetyLabels":["QUICK_COUPLER","TOOL_LOCK"]},
+    {"id":"P01","name":"动力电池背包","glbNodes":["P01_POWER_PACK"],"parentId":"F02","side":"C","connectionInterfaces":["IF_HV_BUS","IF_COOLANT"],"localAxis":[0,0,1],"parameterRange":{"capacityWh":[1200,3000]},"safetyLabels":["HIGH_VOLTAGE","THERMAL"]},
+    {"id":"P02","name":"控制与安全总线","glbNodes":["P02_CONTROL_CORE"],"parentId":"P01","side":"C","connectionInterfaces":["IF_CAN_A","IF_CAN_B","IF_ESTOP"],"localAxis":[0,1,0],"parameterRange":{},"safetyLabels":["SIL_CONCEPT","E_STOP"]},
+    {"id":"P03","name":"可展开接地支腿","glbNodes":["P03_L","P03_R"],"parentId":"F03","side":"B","connectionInterfaces":["IF_F03_P03_L","IF_F03_P03_R"],"localAxis":[1,0,0],"parameterRange":{"outriggerSpanMm":[760,1400]},"safetyLabels":["GROUND_CONTACT","DEPLOYMENT_ZONE"]},
+    {"id":"P04","name":"线束液路散热系统","glbNodes":["P04_UTILITIES"],"parentId":"P01","side":"C","connectionInterfaces":["IF_COOLANT","IF_HARNESS"],"localAxis":[0,1,0],"parameterRange":{},"safetyLabels":["HOT_SURFACE","SERVICE_LOOP"]}
+  ]
+}

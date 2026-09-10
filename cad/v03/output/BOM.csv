@@ -1,0 +1,92 @@
+﻿零件编号,名称,模块,数量,层,材料显示,工艺候选,尺寸 mm,体积 mm3
+F01_SCAPULAR_BRIDGE,肩胛承力桥 / 640 mm,F01,1,frame,titanium,机加工候选,640.0 x 111.69 x 14.0,575330.62
+F02_DORSAL_RAIL,双轨脊柱承力梁 / 370 mm,F02,2,frame,graphite,机加工候选,32.0 x 26.0 x 370.0,159168.06
+F02_SLIDE_BLOCK,躯干长度调整滑块,F02,4,frame,steel,机加工候选,52.0 x 58.0 x 24.0,70727.82
+F02_VERTEBRA_GUARD,分节防夹背甲,F02,4,shell,ceramic,3 mm 外壳,104.73 x 30.44 x 66.15,21296.39
+F03_PELVIC_SADDLE,骨盆承力鞍 / 前开口,F03,1,frame,titanium,机加工候选,456.0 x 244.99 x 44.0,483481.43
+F03_SIDE_SHELL,髋外侧曲面护盖,F03,2,shell,ceramic,3 mm 外壳,120.73 x 31.52 x 164.0,58702.59
+H01_CHEST_PAD,胸前承托垫,H01,1,soft,graphite,软垫/织物,273.11 x 24.63 x 200.0,287616.52
+H01_CHEST_PLATE,胸部快卸接口护板,H01,1,shell,ceramic,机加工候选,242.02 x 26.22 x 148.05,88902.98
+H01_BADGE,胸部设备标识面板,H01,1,shell,lime,机加工候选,74.0 x 40.0 x 3.0,8838.64
+H02_CUFF,大腿/小腿开放承托环,H02,6,soft,graphite,机加工候选,153.99 x 121.0 x 36.0,92498.96
+L01_HOUSING,同轴驱动壳 / 电机与减速器安装腔,L01,2,frame,graphite,机加工候选,91.96 x 91.98 x 36.0,183981.91
+L01_FLANGE,输出轴承法兰 / 8×Ø4.5 孔,L01,2,frame,steel,机加工候选,97.96 x 97.98 x 5.0,30203.12
+L01_COVER,可拆驱动端盖 / 环形识别圈,L01,2,shell,lime,外壳打印样件候选,87.97 x 87.98 x 8.0,31945.76
+L01_CAP,编码器检查盖,L01,2,hardware,graphite,机加工候选,47.82 x 47.83 x 5.0,8585.81
+L01_BEARING,轴承占位环,L01,2,hardware,steel,标准件包络，待选型,46.9 x 46.91 x 12.0,10399.19
+L01_M4_SOCKET,M4 内六角紧固件示意,L01,16,hardware,steel,标准件占位,7.0 x 7.0 x 12.0,242.34
+L03_HOUSING,同轴驱动壳 / 电机与减速器安装腔,L03,2,frame,graphite,机加工候选,85.97 x 85.98 x 32.0,142903.83
+L03_FLANGE,输出轴承法兰 / 8×Ø4.5 孔,L03,2,frame,steel,机加工候选,91.96 x 91.98 x 5.0,26584.99
+L03_COVER,可拆驱动端盖 / 环形识别圈,L03,2,shell,lime,外壳打印样件候选,81.97 x 81.98 x 8.0,27645.84
+L03_CAP,编码器检查盖,L03,2,hardware,graphite,机加工候选,44.7 x 44.71 x 5.0,7452.94
+L03_BEARING,轴承占位环,L03,2,hardware,steel,标准件包络，待选型,43.84 x 43.85 x 12.0,9087.0
+L03_M4_SOCKET,M4 内六角紧固件示意,L03,16,hardware,steel,标准件占位,7.0 x 7.0 x 12.0,242.34
+L05_HOUSING,同轴驱动壳 / 电机与减速器安装腔,L05,2,frame,graphite,机加工候选,65.97 x 65.99 x 26.0,68384.58
+L05_FLANGE,输出轴承法兰 / 8×Ø4.5 孔,L05,2,frame,steel,机加工候选,71.97 x 71.99 x 5.0,16151.37
+L05_COVER,可拆驱动端盖 / 环形识别圈,L05,2,shell,lime,外壳打印样件候选,61.98 x 61.99 x 8.0,15553.06
+L05_CAP,编码器检查盖,L05,2,hardware,graphite,机加工候选,34.31 x 34.31 x 5.0,4228.29
+L05_BEARING,轴承占位环,L05,2,hardware,steel,标准件包络，待选型,33.65 x 33.65 x 12.0,5351.94
+L05_M4_SOCKET,M4 内六角紧固件示意,L05,16,hardware,steel,标准件占位,7.0 x 7.0 x 12.0,242.34
+A01_HOUSING,同轴驱动壳 / 电机与减速器安装腔,A01,2,frame,graphite,机加工候选,111.96 x 111.98 x 48.0,363558.47
+A01_FLANGE,输出轴承法兰 / 8×Ø4.5 孔,A01,2,frame,steel,机加工候选,117.95 x 117.98 x 5.0,43890.35
+A01_COVER,可拆驱动端盖 / 环形识别圈,A01,2,shell,lime,外壳打印样件候选,107.96 x 107.98 x 8.0,48519.1
+A01_CAP,编码器检查盖,A01,2,hardware,graphite,机加工候选,58.22 x 58.23 x 5.0,12913.63
+A01_BEARING,轴承占位环,A01,2,hardware,steel,标准件包络，待选型,57.1 x 57.11 x 12.0,15412.03
+A01_M4_SOCKET,M4 内六角紧固件示意,A01,16,hardware,steel,标准件占位,7.0 x 7.0 x 12.0,242.34
+A03_HOUSING,同轴驱动壳 / 电机与减速器安装腔,A03,2,frame,graphite,机加工候选,95.96 x 95.98 x 40.0,222586.82
+A03_FLANGE,输出轴承法兰 / 8×Ø4.5 孔,A03,2,frame,steel,机加工候选,101.96 x 101.98 x 5.0,32740.34
+A03_COVER,可拆驱动端盖 / 环形识别圈,A03,2,shell,lime,外壳打印样件候选,91.96 x 91.98 x 8.0,34984.7
+A03_CAP,编码器检查盖,A03,2,hardware,graphite,机加工候选,49.9 x 49.91 x 5.0,9383.49
+A03_BEARING,轴承占位环,A03,2,hardware,steel,标准件包络，待选型,48.94 x 48.95 x 12.0,11323.12
+A03_M4_SOCKET,M4 内六角紧固件示意,A03,16,hardware,steel,标准件占位,7.0 x 7.0 x 12.0,242.34
+A04_HOUSING,同轴驱动壳 / 电机与减速器安装腔,A04,2,frame,graphite,机加工候选,67.97 x 67.99 x 30.0,83759.88
+A04_FLANGE,输出轴承法兰 / 8×Ø4.5 孔,A04,2,frame,steel,机加工候选,73.97 x 73.99 x 5.0,17082.11
+A04_COVER,可拆驱动端盖 / 环形识别圈,A04,2,shell,lime,外壳打印样件候选,63.97 x 63.99 x 8.0,16607.24
+A04_CAP,编码器检查盖,A04,2,hardware,graphite,机加工候选,35.35 x 35.35 x 5.0,4512.57
+A04_BEARING,轴承占位环,A04,2,hardware,steel,标准件包络，待选型,34.67 x 34.67 x 12.0,5681.22
+A04_M4_SOCKET,M4 内六角紧固件示意,A04,16,hardware,steel,标准件占位,7.0 x 7.0 x 12.0,242.34
+H03_HOUSING,同轴驱动壳 / 电机与减速器安装腔,H03,2,frame,graphite,机加工候选,33.99 x 33.99 x 17.0,11865.98
+H03_FLANGE,输出轴承法兰 / 8×Ø4.5 孔,H03,2,frame,steel,机加工候选,39.98 x 39.99 x 5.0,4663.37
+H03_COVER,可拆驱动端盖 / 环形识别圈,H03,2,shell,lime,外壳打印样件候选,29.99 x 29.99 x 8.0,3373.52
+H03_CAP,编码器检查盖,H03,2,hardware,graphite,机加工候选,17.67 x 17.68 x 5.0,833.93
+H03_BEARING,轴承占位环,H03,2,hardware,steel,标准件包络，待选型,17.33 x 17.34 x 12.0,1420.3
+H03_M4_SOCKET,M4 内六角紧固件示意,H03,16,hardware,steel,标准件占位,7.0 x 7.0 x 12.0,242.34
+L02_THIGH_RAIL,大腿外侧承力管 / 350 mm,L02,2,frame,graphite,机加工候选,43.0 x 27.0 x 350.0,184864.38
+L04_SHANK_RAIL,小腿外侧承力管 / 278 mm,L04,2,frame,graphite,机加工候选,35.0 x 23.0 x 278.0,117923.14
+L02_THIGH_SHELL,分离式大腿流线护壳,L02,2,shell,ceramic,3 mm 曲面壳,109.87 x 29.33 x 335.0,89854.39
+L04_SHANK_SHELL,小腿胫侧流线护壳,L04,2,shell,ceramic,3 mm 曲面壳,87.09 x 24.91 x 286.0,54563.09
+L02_COLOR_INSERT,大腿外壳嵌件,L02,2,shell,lime,机加工候选,58.0 x 9.93 x 100.0,17555.19
+L04_COLOR_INSERT,胫侧识别护片,L04,2,shell,lime,机加工候选,44.0 x 13.31 x 132.0,17627.66
+L02_TIE_LUG,承托环到承力轨连接耳,L02,6,frame,steel,机加工候选,87.0 x 25.0 x 8.0,16992.7
+L06_HEEL_PLATE,足跟与足弓承力板 / 6 mm,L06,2,frame,titanium,机加工候选,120.07 x 172.95 x 6.0,111534.86
+L06_FOREFOOT_PLATE,前掌分段承力板 / 6 mm,L06,2,frame,titanium,机加工候选,122.97 x 106.95 x 6.0,66982.17
+L06_TREAD_HEEL,可更换足跟防滑垫,L06,2,soft,rubber,橡胶件,116.47 x 167.77 x 5.82,101794.85
+L06_TREAD_TOE,可更换前掌防滑垫,L06,2,soft,rubber,橡胶件,119.28 x 103.74 x 5.82,61132.82
+L06_HEEL_CUP,随鞋跟包覆的后跟杯,L06,2,shell,ceramic,机加工候选,122.0 x 68.0 x 64.0,74143.35
+L05_ANKLE_FORK,踝关节双耳叉架 / Ø12 轴孔,L05,2,frame,titanium,机加工候选,88.81 x 112.35 x 8.0,58564.21
+L06_TOE_HINGE,前掌横向转轴 / Ø8,L06,2,frame,steel,机加工候选,12.0 x 12.0 x 92.0,5774.44
+L06_HINGE_LUG,前掌铰链座,L06,4,frame,graphite,机加工候选,24.0 x 30.49 x 15.0,8899.51
+A01_YAW_BASE,肩偏航基座,A01,2,frame,graphite,机加工候选,113.95 x 113.98 x 26.0,235242.13
+A01_YOKE,肩关节正交叉架,A01,2,frame,titanium,机加工候选,148.0 x 122.0 x 14.0,129573.74
+A01_DELTOID_SHELL,肩峰分体曲面护罩,A01,2,shell,ceramic,机加工候选,159.03 x 48.63 x 158.0,59584.23
+A01_DELTOID_INLAY,肩峰识别嵌板,A01,2,shell,lime,机加工候选,90.0 x 27.09 x 66.0,17567.45
+A02_ARM_RAIL,上臂封闭承力梁,A02,2,frame,graphite,机加工候选,60.0 x 40.0 x 268.0,212841.3
+A02_ARM_SHELL,上臂通风分体护壳,A02,2,shell,ceramic,机加工候选,111.89 x 40.39 x 268.0,84614.05
+A02_ARM_INLAY,上臂外侧识别板,A02,2,shell,lime,机加工候选,59.0 x 16.5 x 50.0,8844.97
+A04_FOREARM_RAIL,前臂双壁承力梁,A04,2,frame,graphite,机加工候选,48.0 x 32.0 x 227.0,140327.76
+A04_FOREARM_SHELL,前臂可拆服务护壳,A04,2,shell,ceramic,机加工候选,102.05 x 37.07 x 221.0,73680.28
+A04_ROLL,前臂轴向滚转支承,A04,2,frame,graphite,机加工候选,83.97 x 83.98 x 25.0,116274.07
+A04_TOOL_FLANGE,末端四孔工具接口 / Ø50 孔距,A04,2,frame,steel,机加工候选,67.97 x 67.99 x 9.0,28971.83
+A04_PALM,平行夹爪安装座,A04,2,frame,graphite,机加工候选,93.0 x 50.0 x 26.0,118232.11
+A04_JAW,工具夹持指 / 可替换钳口,A04,4,frame,titanium,机加工候选,27.0 x 83.0 x 12.0,15170.74
+A04_PAD,夹爪摩擦垫,A04,4,soft,rubber,机加工候选,13.0 x 28.0 x 13.0,4687.19
+H03_MASTER_LINK,低力主控臂连杆,H03,2,frame,graphite,机加工候选,16.0 x 12.0 x 168.0,27482.85
+H03_GRIP,人体侧操纵握把,H03,2,soft,rubber,机加工候选,28.0 x 36.0 x 96.0,94173.99
+P01_POWER_CARRIER,双电源匣承载壳,P01,1,frame,graphite,机加工候选,206.0 x 90.0 x 292.0,1162550.29
+P01_CASSETTE,可抽取电源匣包络,P01,2,shell,ceramic,电池包络，电芯未选型,80.0 x 67.0 x 247.0,1293273.33
+P01_LATCH,电源匣快拆锁扣,P01,2,hardware,lime,机加工候选,54.0 x 12.0 x 28.0,18005.04
+P02_ECU,背部控制器腔体,P02,1,frame,graphite,机加工候选,163.0 x 50.0 x 76.0,614095.77
+P02_ESTOP,急停按钮包络,P02,1,hardware,lime,机加工候选,31.99 x 31.99 x 15.0,12051.0
+P04_COOLING_FIN,背包散热鳍片,P04,9,hardware,graphite,机加工候选,150.0 x 27.0 x 3.0,12147.42
+P04_CONNECTOR,密封快接头包络,P04,5,hardware,steel,机加工候选,17.99 x 18.0 x 23.0,4962.41
+P03_STOWED_STRUT,收纳式辅助支撑 / 默认不接地,P03,2,frame,graphite,机加工候选,18.0 x 15.0 x 245.0,50943.85

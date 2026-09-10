@@ -1,0 +1,90 @@
+[
+  {
+    "id": "L06_HEEL_PLATE",
+    "name": "足跟与足弓承力板 / 6 mm",
+    "boundsMm": [
+      120.07,
+      172.95,
+      6.0
+    ],
+    "process": "机加工候选",
+    "quantity": 2
+  },
+  {
+    "id": "L06_FOREFOOT_PLATE",
+    "name": "前掌分段承力板 / 6 mm",
+    "boundsMm": [
+      122.97,
+      106.95,
+      6.0
+    ],
+    "process": "机加工候选",
+    "quantity": 2
+  },
+  {
+    "id": "L05_ANKLE_FORK",
+    "name": "踝关节双耳叉架 / Ø12 轴孔",
+    "boundsMm": [
+      88.81,
+      112.35,
+      8.0
+    ],
+    "process": "机加工候选",
+    "quantity": 2
+  },
+  {
+    "id": "A01_FLANGE",
+    "name": "输出轴承法兰 / 8×Ø4.5 孔",
+    "boundsMm": [
+      117.95,
+      117.98,
+      5.0
+    ],
+    "process": "机加工候选",
+    "quantity": 2
+  },
+  {
+    "id": "A03_FLANGE",
+    "name": "输出轴承法兰 / 8×Ø4.5 孔",
+    "boundsMm": [
+      101.96,
+      101.98,
+      5.0
+    ],
+    "process": "机加工候选",
+    "quantity": 2
+  },
+  {
+    "id": "A04_TOOL_FLANGE",
+    "name": "末端四孔工具接口 / Ø50 孔距",
+    "boundsMm": [
+      67.97,
+      67.99,
+      9.0
+    ],
+    "process": "机加工候选",
+    "quantity": 2
+  },
+  {
+    "id": "F01_SCAPULAR_BRIDGE",
+    "name": "肩胛承力桥 / 640 mm",
+    "boundsMm": [
+      640.0,
+      111.69,
+      14.0
+    ],
+    "process": "机加工候选",
+    "quantity": 1
+  },
+  {
+    "id": "L02_TIE_LUG",
+    "name": "承托环到承力轨连接耳",
+    "boundsMm": [
+      87.0,
+      25.0,
+      8.0
+    ],
+    "process": "机加工候选",
+    "quantity": 6
+  }
+]

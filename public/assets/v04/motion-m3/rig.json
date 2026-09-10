@@ -1,0 +1,233 @@
+{
+  "revision": "R04-M3",
+  "purpose": "display-only articulation; not hardware control or validated joint ranges",
+  "bones": {
+    "pelvis": {
+      "rest": [
+        0,
+        0.947,
+        0
+      ],
+      "parent": null
+    },
+    "torso": {
+      "rest": [
+        0,
+        1.08,
+        0
+      ],
+      "parent": "pelvis"
+    },
+    "head": {
+      "rest": [
+        0,
+        1.505,
+        0.015
+      ],
+      "parent": "torso"
+    },
+    "thigh_L": {
+      "rest": [
+        -0.11,
+        0.947,
+        0
+      ],
+      "parent": "pelvis"
+    },
+    "shin_L": {
+      "rest": [
+        -0.11,
+        0.478,
+        0.004
+      ],
+      "parent": "thigh_L"
+    },
+    "foot_L": {
+      "rest": [
+        -0.11,
+        0.112,
+        0.003
+      ],
+      "parent": "shin_L"
+    },
+    "arm_L": {
+      "rest": [
+        -0.1761,
+        1.432,
+        0.0153
+      ],
+      "parent": "torso"
+    },
+    "forearm_L": {
+      "rest": [
+        -0.2403,
+        1.2018,
+        0.0139
+      ],
+      "parent": "arm_L"
+    },
+    "exoshoulder_L": {
+      "rest": [
+        -0.305,
+        1.4,
+        -0.159
+      ],
+      "parent": "torso"
+    },
+    "exoarm_L": {
+      "rest": [
+        -0.38,
+        1.425,
+        -0.095
+      ],
+      "parent": "exoshoulder_L"
+    },
+    "exoforearm_L": {
+      "rest": [
+        -0.441,
+        1.086,
+        -0.02
+      ],
+      "parent": "exoarm_L"
+    },
+    "exoroll_L": {
+      "rest": [
+        -0.44079938530921936,
+        1.0635284185409546,
+        0.037783991545438766
+      ],
+      "parent": "exoforearm_L"
+    },
+    "exowrist_L": {
+      "rest": [
+        -0.4399999976158142,
+        0.9739999771118164,
+        0.2680000066757202
+      ],
+      "parent": "exoroll_L"
+    },
+    "jaw_minus_L": {
+      "rest": [
+        -0.4696958065032959,
+        0.9399302005767822,
+        0.3556079864501953
+      ],
+      "parent": "exowrist_L"
+    },
+    "jaw_plus_L": {
+      "rest": [
+        -0.4096958041191101,
+        0.9399302005767822,
+        0.3556079864501953
+      ],
+      "parent": "exowrist_L"
+    },
+    "thigh_R": {
+      "rest": [
+        0.11,
+        0.947,
+        0
+      ],
+      "parent": "pelvis"
+    },
+    "shin_R": {
+      "rest": [
+        0.11,
+        0.478,
+        0.004
+      ],
+      "parent": "thigh_R"
+    },
+    "foot_R": {
+      "rest": [
+        0.11,
+        0.112,
+        0.003
+      ],
+      "parent": "shin_R"
+    },
+    "arm_R": {
+      "rest": [
+        0.1761,
+        1.432,
+        0.0153
+      ],
+      "parent": "torso"
+    },
+    "forearm_R": {
+      "rest": [
+        0.2403,
+        1.2018,
+        0.0139
+      ],
+      "parent": "arm_R"
+    },
+    "exoshoulder_R": {
+      "rest": [
+        0.305,
+        1.4,
+        -0.159
+      ],
+      "parent": "torso"
+    },
+    "exoarm_R": {
+      "rest": [
+        0.38,
+        1.425,
+        -0.095
+      ],
+      "parent": "exoshoulder_R"
+    },
+    "exoforearm_R": {
+      "rest": [
+        0.441,
+        1.086,
+        -0.02
+      ],
+      "parent": "exoarm_R"
+    },
+    "exoroll_R": {
+      "rest": [
+        0.44079938530921936,
+        1.0635284185409546,
+        0.037783991545438766
+      ],
+      "parent": "exoforearm_R"
+    },
+    "exowrist_R": {
+      "rest": [
+        0.4399999976158142,
+        0.9739999771118164,
+        0.2680000066757202
+      ],
+      "parent": "exoroll_R"
+    },
+    "jaw_minus_R": {
+      "rest": [
+        0.4096958041191101,
+        0.9399302005767822,
+        0.3556079864501953
+      ],
+      "parent": "exowrist_R"
+    },
+    "jaw_plus_R": {
+      "rest": [
+        0.4696958065032959,
+        0.9399302005767822,
+        0.3556079864501953
+      ],
+      "parent": "exowrist_R"
+    }
+  },
+  "weightedVertices": 56212,
+  "invalidWeights": 0,
+  "rigidMeshes": 194,
+  "meshObjects": 199,
+  "bytes": 20617032,
+  "source": "assets/source/v04/EXO_ATLAS_R04_MOTION_M3.blend",
+  "cadGeometryChanged": false,
+  "articulation": "shoulder yaw/lift/spread, elbow, axial forearm roll, wrist pitch/yaw, parallel jaw translation",
+  "displayOnlyAdditions": [
+    "wrist spherical adapter and connecting neck; no production joint design"
+  ]
+}

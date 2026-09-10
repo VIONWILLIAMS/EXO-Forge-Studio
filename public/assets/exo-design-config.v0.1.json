@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "human": { "heightMm": 1750, "shoulderWidthMm": 460, "hipWidthMm": 360, "armRatio": 1, "legRatio": 1 },
+  "machine": { "shoulderFrameMm": 760, "pelvisRingMm": 520, "legLengthMm": 890, "armReachMm": 1000, "footLengthMm": 360, "footWidthMm": 180, "outriggerSpanMm": 1200 },
+  "joints": { "shoulderPitchDeg": 18, "shoulderYawDeg": 8, "elbowDeg": 72, "wristPitchDeg": 0, "hipPitchDeg": 4, "kneeDeg": 8, "ankleDeg": 1 },
+  "loadCase": { "massKg": 50, "gravity": [0, -9.80665, 0], "gripPointMm": [0, 1120, -500], "reachMm": 500, "groundMode": "feet-outriggers", "scenario": "industrial" },
+  "preset": "industrial",
+  "materials": { "titanium": "#899397", "carbon": "#20272a", "polymer": "#111719", "safetyOrange": "#ff6a1a", "rubber": "#202426", "statusLight": "#55e5b0" },
+  "visibility": { "human": true, "mechanism": true, "utilities": true, "payload": true, "xrayHuman": false }
+}

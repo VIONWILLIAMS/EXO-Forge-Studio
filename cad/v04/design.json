@@ -1,0 +1,53 @@
+{
+  "revision": "ATLAS-R04",
+  "units": "mm",
+  "humanHeight": 1750,
+  "shoulderSpan": 760,
+  "hipSpan": 470,
+  "hipHeight": 947,
+  "kneeHeight": 478,
+  "ankleHeight": 112,
+  "shoulderHeight": 1430,
+  "bootLength": 286,
+  "bootWidth": 124,
+  "soleThickness": 6,
+  "shellThickness": 3,
+  "stanceWidth": 220,
+  "materialPalette": {
+    "titanium": "#7f909d",
+    "ceramic": "#d4dbe1",
+    "graphite": "#202b35",
+    "lime": "#c3ed59",
+    "rubber": "#191e22",
+    "steel": "#b7c1c5",
+    "screen": "#071b26",
+    "red": "#e8583e"
+  },
+  "loadPath": [
+    "A04 tool flange",
+    "A03 elbow",
+    "A01 shoulder",
+    "F01 scapular bridge",
+    "F02 dorsal rails",
+    "F03 pelvic saddle",
+    "L01 hip",
+    "L02 thigh",
+    "L03 knee",
+    "L04 shank",
+    "L05 ankle fork",
+    "L06 heel and forefoot",
+    "ground"
+  ],
+  "designStatus": "Detailed development input; NOT a manufacturing release. Fit and safety gates remain open.",
+  "manufacturing": {
+    "frame": "machined metal candidate, material and section require calculation",
+    "shell": "3 mm nominal shell, additive fit prototype candidate",
+    "foot": "heel plate / forefoot plate / transverse hinge / ankle fork",
+    "printScale": 1,
+    "printUse": "non-load-bearing fit and assembly inspection"
+  },
+  "hingePinDiameter": 8,
+  "hingeBoreDiameter": 8.4,
+  "shellStyle": "faceted loft / removable skin",
+  "displays": 3
+}

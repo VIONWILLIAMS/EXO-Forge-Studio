@@ -1,0 +1,15 @@
+* text=auto
+*.glb binary
+*.blend binary
+*.mp4 binary
+*.zip binary
+*.png binary
+*.stl binary
+*.3mf binary
+*.xlsx binary
+# Preserve upstream data and generated engineering files byte for byte.
+assets/reference/gait/** -text
+assets/vendor/** -text
+cad/**/output/** -text
+public/assets/** -text
+*.step -text

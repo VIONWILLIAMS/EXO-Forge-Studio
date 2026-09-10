@@ -1,0 +1,149 @@
+{
+  "revision": "R04-M1",
+  "purpose": "display-only articulation; not hardware control",
+  "bones": {
+    "pelvis": {
+      "rest": [
+        0,
+        0.947,
+        0
+      ],
+      "parent": null
+    },
+    "torso": {
+      "rest": [
+        0,
+        1.08,
+        0
+      ],
+      "parent": "pelvis"
+    },
+    "head": {
+      "rest": [
+        0,
+        1.505,
+        0.015
+      ],
+      "parent": "torso"
+    },
+    "thigh_L": {
+      "rest": [
+        -0.11,
+        0.947,
+        0
+      ],
+      "parent": "pelvis"
+    },
+    "shin_L": {
+      "rest": [
+        -0.11,
+        0.478,
+        0.004
+      ],
+      "parent": "thigh_L"
+    },
+    "foot_L": {
+      "rest": [
+        -0.11,
+        0.112,
+        0.003
+      ],
+      "parent": "shin_L"
+    },
+    "arm_L": {
+      "rest": [
+        -0.1761,
+        1.432,
+        0.0153
+      ],
+      "parent": "torso"
+    },
+    "forearm_L": {
+      "rest": [
+        -0.2403,
+        1.2018,
+        0.0139
+      ],
+      "parent": "arm_L"
+    },
+    "exoarm_L": {
+      "rest": [
+        -0.38,
+        1.425,
+        -0.095
+      ],
+      "parent": "torso"
+    },
+    "exoforearm_L": {
+      "rest": [
+        -0.441,
+        1.086,
+        -0.02
+      ],
+      "parent": "exoarm_L"
+    },
+    "thigh_R": {
+      "rest": [
+        0.11,
+        0.947,
+        0
+      ],
+      "parent": "pelvis"
+    },
+    "shin_R": {
+      "rest": [
+        0.11,
+        0.478,
+        0.004
+      ],
+      "parent": "thigh_R"
+    },
+    "foot_R": {
+      "rest": [
+        0.11,
+        0.112,
+        0.003
+      ],
+      "parent": "shin_R"
+    },
+    "arm_R": {
+      "rest": [
+        0.1761,
+        1.432,
+        0.0153
+      ],
+      "parent": "torso"
+    },
+    "forearm_R": {
+      "rest": [
+        0.2403,
+        1.2018,
+        0.0139
+      ],
+      "parent": "arm_R"
+    },
+    "exoarm_R": {
+      "rest": [
+        0.38,
+        1.425,
+        -0.095
+      ],
+      "parent": "torso"
+    },
+    "exoforearm_R": {
+      "rest": [
+        0.441,
+        1.086,
+        -0.02
+      ],
+      "parent": "exoarm_R"
+    }
+  },
+  "weightedVertices": 56212,
+  "invalidWeights": 0,
+  "rigidMeshes": 180,
+  "meshObjects": 185,
+  "bytes": 20573448,
+  "source": "assets/source/v04/EXO_ATLAS_R04_MOTION.blend",
+  "cadGeometryChanged": false
+}

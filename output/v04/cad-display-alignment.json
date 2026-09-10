@@ -1,0 +1,798 @@
+{
+  "revision": "ATLAS-R04",
+  "displayGroupsCompared": 158,
+  "pass": true,
+  "worstDeviationMm": 0.0002,
+  "checks": [
+    {
+      "node": "F01__frame__C__01",
+      "deviationMm": 0.0002,
+      "pass": true
+    },
+    {
+      "node": "F02__frame__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "F02__frame__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "F02__frame__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "F02__frame__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "F02__shell__C__02",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "F03__frame__C__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H01__soft__C__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H01__shell__C__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L01__frame__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L01__frame__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L01__shell__L__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L01__hardware__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L01__hardware__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L03__frame__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__frame__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__shell__L__04",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__hardware__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__hardware__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__frame__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__frame__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__shell__L__04",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__hardware__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__hardware__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__frame__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L04__frame__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__shell__L__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L04__shell__L__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__shell__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L04__shell__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "F03__shell__L__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "H02__soft__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__frame__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__frame__L__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__soft__L__05",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__shell__L__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__frame__L__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L01__frame__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L01__frame__R__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L01__shell__R__04",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L01__hardware__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L01__hardware__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L03__frame__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__frame__R__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__shell__R__04",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__hardware__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L03__hardware__R__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__frame__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__frame__R__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__shell__R__04",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__hardware__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__hardware__R__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__frame__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L04__frame__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__shell__R__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L04__shell__R__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__shell__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L04__shell__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "F03__shell__R__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "H02__soft__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__frame__R__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__frame__R__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__soft__R__05",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__shell__R__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L05__frame__R__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A01__frame__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__frame__L__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__frame__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__shell__L__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__hardware__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__hardware__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__shell__L__02",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__shell__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A02__frame__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A02__shell__L__02",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A02__shell__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__frame__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__frame__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__shell__L__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__hardware__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__hardware__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A04__frame__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__shell__L__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__frame__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__shell__L__04",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__hardware__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A04__hardware__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A01__frame__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__frame__R__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__frame__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__shell__R__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__hardware__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__hardware__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__shell__R__02",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A01__shell__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A02__frame__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A02__shell__R__02",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A02__shell__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__frame__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__frame__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__shell__R__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__hardware__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A03__hardware__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A04__frame__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__shell__R__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__frame__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A04__shell__R__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A04__hardware__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__hardware__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P01__frame__C__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P01__shell__L__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "P01__hardware__L__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P01__shell__R__02",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "P01__hardware__R__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P02__frame__C__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "P02__hardware__C__14",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P04__hardware__C__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P04__hardware__C__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "P03__frame__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P03__frame__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P02__electronics__C__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P02__electronics__C__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P02__electronics__C__12",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "P02__electronics__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P02__electronics__L__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "P02__electronics__L__12",
+      "deviationMm": 0.0002,
+      "pass": true
+    },
+    {
+      "node": "H03__frame__L__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__frame__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "H03__frame__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__shell__L__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__hardware__L__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__hardware__L__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__soft__L__05",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__frame__R__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__frame__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__frame__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__shell__R__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__hardware__R__03",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__hardware__R__06",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "H03__soft__R__05",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A04__frame__L__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__soft__L__05",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A04__frame__R__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A04__soft__R__05",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L06__hardware__L__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__hardware__L__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__hardware__R__06",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L06__hardware__R__03",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__frame__L__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L04__frame__L__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "L02__frame__R__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L04__frame__R__01",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A01__hardware__L__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A02__hardware__L__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L04__hardware__L__04",
+      "deviationMm": 0,
+      "pass": true
+    },
+    {
+      "node": "A01__hardware__R__01",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "A02__hardware__R__04",
+      "deviationMm": 0.0001,
+      "pass": true
+    },
+    {
+      "node": "L04__hardware__R__04",
+      "deviationMm": 0,
+      "pass": true
+    }
+  ]
+}

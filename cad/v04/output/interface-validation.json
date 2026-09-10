@@ -1,0 +1,131 @@
+{
+  "revision": "R04",
+  "method": "OpenCascade exact solid intersections and distances",
+  "scope": "Only listed corrected interfaces; continuity is NOT a production fastening proof.",
+  "pass": true,
+  "checks": [
+    {
+      "name": "L pin / L06_HINGE_HEEL 0",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "L pin / L06_HINGE_HEEL 1",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "L pin / L06_HINGE_TOE 0",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "L pin / L06_HINGE_TOE 1",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "L H03_PELVIC_MOUNT -> H03_MASTER_LINK",
+      "actual": 0.0,
+      "criterion": "layout continuity: gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "L H03_FOREARM_LINK -> H03_GRIP_COLLAR",
+      "actual": 0.0,
+      "criterion": "layout continuity: gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "L H03_GRIP_COLLAR -> H03_GRIP",
+      "actual": 0.0,
+      "criterion": "layout continuity: gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "L parallel jaw direction",
+      "actual": 1.0,
+      "criterion": "both jaws extend along same axis, dot > 0.999",
+      "pass": true
+    },
+    {
+      "name": "L jaw pad 0",
+      "actual": 0.0,
+      "criterion": "pad-to-finger gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "L jaw pad 1",
+      "actual": 0.0,
+      "criterion": "pad-to-finger gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "R pin / L06_HINGE_HEEL 0",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "R pin / L06_HINGE_HEEL 1",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "R pin / L06_HINGE_TOE 0",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "R pin / L06_HINGE_TOE 1",
+      "actual": 0.0,
+      "criterion": "overlap <= 0.001 mm3",
+      "pass": true
+    },
+    {
+      "name": "R H03_PELVIC_MOUNT -> H03_MASTER_LINK",
+      "actual": 0.0,
+      "criterion": "layout continuity: gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "R H03_FOREARM_LINK -> H03_GRIP_COLLAR",
+      "actual": 0.0,
+      "criterion": "layout continuity: gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "R H03_GRIP_COLLAR -> H03_GRIP",
+      "actual": 0.0,
+      "criterion": "layout continuity: gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "R parallel jaw direction",
+      "actual": 1.0,
+      "criterion": "both jaws extend along same axis, dot > 0.999",
+      "pass": true
+    },
+    {
+      "name": "R jaw pad 0",
+      "actual": 0.0,
+      "criterion": "pad-to-finger gap <= 0.5 mm",
+      "pass": true
+    },
+    {
+      "name": "R jaw pad 1",
+      "actual": 0.0,
+      "criterion": "pad-to-finger gap <= 0.5 mm",
+      "pass": true
+    }
+  ],
+  "fullAssembly": "NOT RUN",
+  "dynamicInterference": "NOT RUN",
+  "manufacturingRelease": false
+}

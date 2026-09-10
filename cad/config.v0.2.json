@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "product": "EXO Forge Studio",
+  "revision": "CAD-V0.2",
+  "units": "mm",
+  "intent": "articulated-printable-demonstrator",
+  "nominalFullScale": {
+    "humanHeight": 1750,
+    "shoulderFrameWidth": 760,
+    "pelvisFrameWidth": 520,
+    "torsoRailLength": 500,
+    "thighLinkLength": 430,
+    "shinLinkLength": 420,
+    "armUpperLength": 450,
+    "armForeLength": 430,
+    "footLength": 360,
+    "footWidth": 180,
+    "outriggerSpan": 1200
+  },
+  "printPrototype": {
+    "scale": 0.2,
+    "scaleLabel": "1:5",
+    "process": "FDM",
+    "buildVolume": [220, 220, 250],
+    "nozzleDiameter": 0.4,
+    "layerHeight": 0.2,
+    "minimumWall": 2.4,
+    "movingClearance": 0.25,
+    "pinNominalDiameter": 3.0,
+    "pinBoreDiameter": 3.4,
+    "fastener": "M3",
+    "stlLinearTolerance": 0.08,
+    "stlAngularTolerance": 0.1
+  },
+  "engineeringBoundary": {
+    "loadBearing": false,
+    "wearable": false,
+    "humanTesting": false,
+    "statement": "可打印装配与运动关系验证件，不得用于真人穿戴、承重、救援或施工。"
+  }
+}

@@ -1,0 +1,30 @@
+/node_modules/
+/dist/
+/coverage/
+/.openai/
+/.env*
+/.venv*/
+/.playwright-cli/
+/.npm-cache/
+/work/
+/outputs/
+.DS_Store
+._*
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
+*.tsbuildinfo
+*.log
+*.pem
+*.key
+# Preserve the two historical geometry reports required by the test suite.
+/output/*
+!/output/v04/
+/output/v04/*
+!/output/v04/anatomy-validation.json
+!/output/v04/cad-display-alignment.json
+
+# Local visual references with unconfirmed redistribution licenses.
+/assets/reference/body-fit.png
+/assets/reference/design-quality.png

@@ -1,0 +1,384 @@
+[
+  {
+    "article": 5722711,
+    "doi": "10.6084/m9.figshare.5722711.v5",
+    "license": {
+      "value": 1,
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "files": [
+      {
+        "name": "WBDS01walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS01walkT05ang.txt",
+        "sha256": "544817100bf751fa0d8e0869b34ef8a8f334cb9a68f74bc0f146b011f26798b3"
+      },
+      {
+        "name": "WBDS02walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS02walkT05ang.txt",
+        "sha256": "bac65776cb4fc66f78eed744d51abdeedbbd73870f4b422b0e721f015e2fbefd"
+      },
+      {
+        "name": "WBDS03walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS03walkT05ang.txt",
+        "sha256": "5cdda8b5e2a8d8ac317970afbebdef61077e3e4d65bd22a90a757bf475964914"
+      },
+      {
+        "name": "WBDS04walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS04walkT05ang.txt",
+        "sha256": "b791504db28c3bc2fe41d26f16de7906e8cbcc567d3c51fb9d0a6a2bfd4286c8"
+      },
+      {
+        "name": "WBDS05walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS05walkT05ang.txt",
+        "sha256": "b7bd8458a5064cc897b84ab2ac93acd47cbd1e9d6fc21b08cd4e1d90e3205730"
+      },
+      {
+        "name": "WBDS06walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS06walkT05ang.txt",
+        "sha256": "ed16eff40a9a2189a364709eceb385fc88ed4bd0d1b43b77e240080254a483b5"
+      },
+      {
+        "name": "WBDS07walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS07walkT05ang.txt",
+        "sha256": "9eeea881fa8bfbff2432b986a1996b4b7850fd31ed50a40e5eb842787843081d"
+      },
+      {
+        "name": "WBDS08walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS08walkT05ang.txt",
+        "sha256": "c873eb0d771659dd585a63f9ff47305a684c59a71111015971ac170ab3e04701"
+      },
+      {
+        "name": "WBDS09walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS09walkT05ang.txt",
+        "sha256": "59389ad50924861fc96f8504753d9126c7ffc513f4e9c8267860ad36bedeb351"
+      },
+      {
+        "name": "WBDS10walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS10walkT05ang.txt",
+        "sha256": "3d40cbfd310e3b8509720d4cd12d27fae5f43621fb5735ee7b086793a7ff6c20"
+      },
+      {
+        "name": "WBDS11walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS11walkT05ang.txt",
+        "sha256": "d2332361e35fd40495be7c02768623ff2f587f8aa768738e8b2664c24638e8e8"
+      },
+      {
+        "name": "WBDS12walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS12walkT05ang.txt",
+        "sha256": "2cd97d78259e6d94b8fe193275c103084e9300a2bc30d1eb07af706cc0eba3d3"
+      },
+      {
+        "name": "WBDS13walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS13walkT05ang.txt",
+        "sha256": "b63affc9fddaac0788ca752dcfe74376136832b243c77a92662d26352a6b66ad"
+      },
+      {
+        "name": "WBDS14walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS14walkT05ang.txt",
+        "sha256": "03a6d62919559beae3a47ca7c11f9c2cab97a38e82c89271da294402dcd5c105"
+      },
+      {
+        "name": "WBDS15walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS15walkT05ang.txt",
+        "sha256": "64f7d5b9a78bbeb2c1c8185936ada7c6806d0be4ef3f2b2945ec2b91c2ca14b9"
+      },
+      {
+        "name": "WBDS16walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS16walkT05ang.txt",
+        "sha256": "63308413c8e85f42acba1bc4fbb95d67b312acd74ed5c70ca29825a61e31cc8b"
+      },
+      {
+        "name": "WBDS17walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS17walkT05ang.txt",
+        "sha256": "fcf68077c50239ace589df4d555bba669257746b0157b7521be84978c0425d9b"
+      },
+      {
+        "name": "WBDS18walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS18walkT05ang.txt",
+        "sha256": "ef4db2bb30f025f2cbe1b3d4657b9d613f85b6428791991e8c4bcfe1c3a5576f"
+      },
+      {
+        "name": "WBDS19walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS19walkT05ang.txt",
+        "sha256": "bf36df54040258c4c4f08a2ede5d2240ff7117e55707e21c20c9b7b42ea7baa7"
+      },
+      {
+        "name": "WBDS20walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS20walkT05ang.txt",
+        "sha256": "546cc6dce28e94166805dcafe1cb074fd4774cb9c4d2a558e786872bfa7f2917"
+      },
+      {
+        "name": "WBDS21walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS21walkT05ang.txt",
+        "sha256": "41c67afc06d400e9d8882b5baee6a62f0a756b8c3dd5d3fab22ee407e6845be7"
+      },
+      {
+        "name": "WBDS22walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS22walkT05ang.txt",
+        "sha256": "b483eeb3c1abdeca5e8510287e195eae758a91cdcb9fe8f82a7b698245666db0"
+      },
+      {
+        "name": "WBDS23walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS23walkT05ang.txt",
+        "sha256": "7baa3b6dd9bff6ac2223ff91fdc255ef74f432b2f8193b53cf7668fbca3cf902"
+      },
+      {
+        "name": "WBDS24walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS24walkT05ang.txt",
+        "sha256": "e248ae9bf21d8a0bef74752969f66d0930ca1443007766ca4e6881e395278ee1"
+      },
+      {
+        "name": "WBDS25walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS25walkT05ang.txt",
+        "sha256": "3e0b39d54d8231a3357ccc89dcf37a2905ae047ef54476b03256eebd90ff057e"
+      },
+      {
+        "name": "WBDS26walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS26walkT05ang.txt",
+        "sha256": "2f1d03abd92272d9a9a8783eb0a8da30b616ad7002a7cb7482c4ec8f9a1ae44a"
+      },
+      {
+        "name": "WBDS27walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS27walkT05ang.txt",
+        "sha256": "1306e091ed759b4b95add6cef1d10695d162bedebd76ad3eaad95883586f589f"
+      },
+      {
+        "name": "WBDS28walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS28walkT05ang.txt",
+        "sha256": "b92dd4471a3ef48dae417c098718fc3f7433a831fb42002d551395fa4a7ee39d"
+      },
+      {
+        "name": "WBDS29walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS29walkT05ang.txt",
+        "sha256": "60e9099ca551304a9e93220dcebe86effa923c930d9c2b0b02ae800814686566"
+      },
+      {
+        "name": "WBDS30walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS30walkT05ang.txt",
+        "sha256": "ae0c1388991a13450667fa4ae8d44a4452195b92157367800e22da1b19c0160e"
+      },
+      {
+        "name": "WBDS31walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS31walkT05ang.txt",
+        "sha256": "523fe39d4026636daf5f687a88b26a1219d4ae91d6a0fb6b1747e66cb3d71763"
+      },
+      {
+        "name": "WBDS32walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS32walkT05ang.txt",
+        "sha256": "9d5ac0b1d3ef3873c7d0829f7fc60a8948e26ffb431ce0ba94d610a3bc7d53db"
+      },
+      {
+        "name": "WBDS33walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS33walkT05ang.txt",
+        "sha256": "754d3c7c77ce7b4e6ced3b8c3dca409e6a1548214f7ef77435eeaf05419b8f62"
+      },
+      {
+        "name": "WBDS34walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS34walkT05ang.txt",
+        "sha256": "44e5af9a381c9e7b75169f0ad949db04ed2ffcd584032b25f2add81ed2dd804e"
+      },
+      {
+        "name": "WBDS35walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS35walkT05ang.txt",
+        "sha256": "45aaddaa12f77ff70b1615dd9aab69c6e9cd8d7dc72914f9fddff85891309696"
+      },
+      {
+        "name": "WBDS36walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS36walkT05ang.txt",
+        "sha256": "cbd64ca779fd00121bb57d596b15b8e5872745c705e2e84eac174731c5813fa2"
+      },
+      {
+        "name": "WBDS37walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS37walkT05ang.txt",
+        "sha256": "7fde9f8eeaffa929302b3190727b3234de26a256ba97dc84be1d68a7ea410707"
+      },
+      {
+        "name": "WBDS38walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS38walkT05ang.txt",
+        "sha256": "60dcfbf26bf1c6d29a182afe261c6f351baa1b03506c2dc307e75570db0c5787"
+      },
+      {
+        "name": "WBDS39walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS39walkT05ang.txt",
+        "sha256": "1376ccb02c071b81162427292749e6a39793ca401943a4eddc926bd2ab13e039"
+      },
+      {
+        "name": "WBDS40walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS40walkT05ang.txt",
+        "sha256": "59e6f93a3fdf7f25ac763017de112212ecc4bb0ecb19ab15bcc1b5251524fcdd"
+      },
+      {
+        "name": "WBDS41walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS41walkT05ang.txt",
+        "sha256": "60447685061e53c67833a16975dd5d1e380c9a701238d822c5146085c7697d86"
+      },
+      {
+        "name": "WBDS42walkT05ang.txt",
+        "url": "https://ndownloader.figshare.com/files/10058986#WBDS42walkT05ang.txt",
+        "sha256": "1ea73bbd71bfde4b483443391db0411aae81f1ecccb50b1db791d576850b2447"
+      },
+      {
+        "name": "WBDSinfo.xlsx",
+        "url": "https://ndownloader.figshare.com/files/52437152",
+        "sha256": "2d3f5bac1002c2483bd26b82e77a044523b8474bb0e5fe88f6d4b3dc717312f6"
+      }
+    ]
+  },
+  {
+    "article": 4543435,
+    "doi": "10.6084/m9.figshare.4543435.v5",
+    "license": {
+      "value": 1,
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "files": [
+      {
+        "name": "RBDS004processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824949",
+        "sha256": "bccd20cbdaeb6e3139732bdf69ecd7c943d0adc8175da5dd374a3338fcbb0fda"
+      },
+      {
+        "name": "RBDS005processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824952",
+        "sha256": "1dce073c7a7c885804a632845c7aec6c1f494e0b684dfb1a97543271eb1f34e8"
+      },
+      {
+        "name": "RBDS006processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824955",
+        "sha256": "0756d44ea4467ae90dd7f45bc09d761fbb7165f29620b643fcf2e52d58df9c3e"
+      },
+      {
+        "name": "RBDS007processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824958",
+        "sha256": "3303bf9abdde98dd5433021dc4c1ed567a67b14a0f24337f12208fffaa72148b"
+      },
+      {
+        "name": "RBDS008processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824961",
+        "sha256": "042d3a00e6e887c43e55f13252adbb05f8a254b35dd6a8314ee470141cc1292f"
+      },
+      {
+        "name": "RBDS009processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824964",
+        "sha256": "90203cc6409ca2cefb92d0079cc40e205f44d28529408466f86f902b92ac6725"
+      },
+      {
+        "name": "RBDS010processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824967",
+        "sha256": "8d1c72884c71471f426c8da069a56403de2e4fad24367146b0d2ea6246b15710"
+      },
+      {
+        "name": "RBDS011processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824970",
+        "sha256": "6bcaa9e2f1dc47af54125d1e8875890b6a9cd0bf8150ff8fb089cb9ba663fb41"
+      },
+      {
+        "name": "RBDS012processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824973",
+        "sha256": "232f279554f71e38ac295fa84050a682c60f5ea9f9db69e17c2d33279e752ff2"
+      },
+      {
+        "name": "RBDS013processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824976",
+        "sha256": "7cc904f585fca324faac81681e68d3e29707315267bb6c08b002a975984ee668"
+      },
+      {
+        "name": "RBDS014processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824979",
+        "sha256": "bdd28e1317254a0fbdfe8b80976352d7d5e9d2bcba14998772aa6241e0da1cd5"
+      },
+      {
+        "name": "RBDS015processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824982",
+        "sha256": "0ba39fee32c23f67be9f5c01f267a8adf47adeb79f3a73f4d9c690090e6d2867"
+      },
+      {
+        "name": "RBDS016processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824985",
+        "sha256": "4eb24820b8f967e672f2f8bba17ff9f0dac905a5386034aef5ce1f18f3dc5a38"
+      },
+      {
+        "name": "RBDS017processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824988",
+        "sha256": "dc3e779d50c18806657e991217376061ac6243ca5ceb77a86c7bef5b4e28741a"
+      },
+      {
+        "name": "RBDS018processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824991",
+        "sha256": "f2c1a4985aaf1d0eb529f5e0e94832feb60b11e1f34a6ac76ec277b903cc0fa5"
+      },
+      {
+        "name": "RBDS019processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824994",
+        "sha256": "4019266c775ef840c5484a463f4447dbbc2c35d920574c67f23f609adcd93796"
+      },
+      {
+        "name": "RBDS020processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7824997",
+        "sha256": "d714afcabee254ad7e416ba07eab075a7b922194bb284842bf6b5cae67bdca25"
+      },
+      {
+        "name": "RBDS021processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825000",
+        "sha256": "187054d27a6d60a7b18934d0738489f79cece8f419c4525dffedcb962611456e"
+      },
+      {
+        "name": "RBDS022processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825003",
+        "sha256": "b2e62139a486c3e8a200cf9e87f4ab00636dfe7341ff048843d715e6c5ec25ad"
+      },
+      {
+        "name": "RBDS023processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825006",
+        "sha256": "7940dd98c21fcb11e9b16934e8bc72449504ed8107c56f38328f0646433202c7"
+      },
+      {
+        "name": "RBDS024processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825009",
+        "sha256": "4f14e01385db309125083cae17660a8e6947f28159f16236aa56aa13be1b7f0f"
+      },
+      {
+        "name": "RBDS025processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825012",
+        "sha256": "9a5acf04e573aa768875cf97a7e7766e5bef4a26dd5a7cd1d380c308e1e4ca3c"
+      },
+      {
+        "name": "RBDS026processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825015",
+        "sha256": "50f80d6a786368aaa4a927ebecd4f88fa510f46be2de536af3096c33ee5cc56b"
+      },
+      {
+        "name": "RBDS027processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825018",
+        "sha256": "8758ccf4bf71dccae1be883deff9a619bc6a18c3c8ab3ca191a70a1497da58c6"
+      },
+      {
+        "name": "RBDS028processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825021",
+        "sha256": "39ef19ecc0f4d452bf9dcde53b10f05cd04af421561900afbc10dafbfc8f24a8"
+      },
+      {
+        "name": "RBDS001processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825024",
+        "sha256": "aa63c23379e26b0419ec5309d789c0507ff39ebf00d476f9a4570cfd481117c5"
+      },
+      {
+        "name": "RBDS002processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825027",
+        "sha256": "cc870ec7f99290b06a645d2d89e66082533e85c1fdea4934992976290c8ffd60"
+      },
+      {
+        "name": "RBDS003processed.txt",
+        "url": "https://ndownloader.figshare.com/files/7825030",
+        "sha256": "3815d591dbd31bd830fdb32f99f0e51516493d4b465bbadcf8322db88a26cd03"
+      },
+      {
+        "name": "RBDSinfo.txt",
+        "url": "https://ndownloader.figshare.com/files/7841131",
+        "sha256": "b4c64b26ed742e7778c317542422adc36091ce11f7a2cb8ae2db446bfda919df"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+cadquery==2.6.1
+trimesh==4.11.4
+networkx==3.6.1
+lxml==6.0.2
