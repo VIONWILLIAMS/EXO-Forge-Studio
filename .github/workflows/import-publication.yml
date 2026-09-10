@@ -1,0 +1,56 @@
+name: Import reviewed public snapshot
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/import-publication.yml']
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Download and verify the reviewed public bundle
+        env:
+          BUNDLE_URL: https://flashers-bend-retention-wheel.trycloudflare.com/release.bundle
+          BUNDLE_SHA256: bce28849ef36fa3a1c8eb98c22e6d98a8571cc8c0aca8dfa1d0b316da439a9c1
+        run: |
+          python3 - <<'PY'
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+          from pathlib import Path
+          import os, subprocess
+          size, chunk = 144408562, 4194304
+          parts = Path('/tmp/publication-parts')
+          parts.mkdir()
+          def download(i):
+              start, end = i * chunk, min(size, (i + 1) * chunk) - 1
+              target = parts / f'{i:04d}'
+              subprocess.run(['curl', '--fail', '--silent', '--show-error', '--location',
+                              '--retry', '3', '--connect-timeout', '30', '--max-time', '240',
+                              '--range', f'{start}-{end}', os.environ['BUNDLE_URL'],
+                              '--output', str(target)], check=True)
+              assert target.stat().st_size == end - start + 1
+              return i
+          with ThreadPoolExecutor(max_workers=8) as pool:
+              futures = [pool.submit(download, i) for i in range((size + chunk - 1) // chunk)]
+              for result in as_completed(futures):
+                  print(f'Part {result.result() + 1}/{len(futures)} received', flush=True)
+          with open('/tmp/release.bundle', 'wb') as output:
+              for part in sorted(parts.iterdir()):
+                  output.write(part.read_bytes())
+          PY
+          printf '%s  /tmp/release.bundle\n' "$BUNDLE_SHA256" | sha256sum --check --strict
+          git bundle verify /tmp/release.bundle
+      - name: Publish the exact reviewed tree
+        env:
+          EXPECTED_COMMIT: ee3192fb0b333d3359106ec3183e0abfc5ddc6cc
+        run: |
+          git fetch /tmp/release.bundle HEAD
+          test "$(git rev-parse FETCH_HEAD)" = "$EXPECTED_COMMIT"
+          tree=$(git rev-parse 'FETCH_HEAD^{tree}')
+          git config user.name 'VIONWILLIAMS'
+          git config user.email '176846999+VIONWILLIAMS@users.noreply.github.com'
+          publication=$(git commit-tree "$tree" -p "$GITHUB_SHA" -m 'Publish ATLAS R04 bilingual concept workbench')
+          git push origin "$publication:refs/heads/main"
+          printf 'Published commit: `%s`\n\nVerified tree: `%s`\n' "$publication" "$tree" >> "$GITHUB_STEP_SUMMARY"
